@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'advent_promedium';
+    src: url('adventpro-medium-webfont.eot');
+    src: url('adventpro-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('adventpro-medium-webfont.woff2') format('woff2'),
+         url('adventpro-medium-webfont.woff') format('woff'),
+         url('adventpro-medium-webfont.ttf') format('truetype'),
+         url('adventpro-medium-webfont.svg#advent_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
