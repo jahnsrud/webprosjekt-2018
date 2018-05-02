@@ -1,0 +1,21 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_kalium">
+			<key name="logo_text" />
+			<key name="footer_text" />
+			<key name="footer_text_right" />
+			<key name="menu_hamburger_custom_label_text" />
+			<key name="menu_hamburger_custom_label_close_text" />
+			<key name="user_custom_js_head" />
+			<key name="user_custom_js" />
+			<key name="blog_title" />
+			<key name="blog_description" />
+			<key name="portfolio_title" />
+			<key name="portfolio_description" />
+			<key name="coming_soon_mode_title" />
+			<key name="coming_soon_mode_description" />
+			<key name="maintenance_mode_title" />
+			<key name="maintenance_mode_description" />
+		</key>
+	</admin-texts>
+</wpml-config>

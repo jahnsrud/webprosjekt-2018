@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'advent_prothin';
+    src: url('adventpro-thin-webfont.eot');
+    src: url('adventpro-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('adventpro-thin-webfont.woff2') format('woff2'),
+         url('adventpro-thin-webfont.woff') format('woff'),
+         url('adventpro-thin-webfont.ttf') format('truetype'),
+         url('adventpro-thin-webfont.svg#advent_prothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
