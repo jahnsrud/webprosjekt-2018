@@ -1,0 +1,252 @@
+h1, h2, h3, h4 {
+	font-weight: bold !important;
+}
+
+.section-title h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.wpb_wrapper a {
+	display: block;
+}
+
+@media (max-width: 767px) {
+	.booking-button {
+		width: 60% !important;
+	}
+	
+}
+
+.booking-button {
+	border-radius: 10px;
+	border: 2px solid black;
+	height: 44px;
+	color: black;
+	font-weight: bold;
+	font-size: 22px;
+	padding-left: 14px;
+	padding-right: 14px;
+	transition: 0.20s all;
+	text-align: center;
+	width: 23%;
+	padding-top: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.booking-button:hover {
+	background-color: #f2f2f2;
+}
+
+::selection{
+    background-color: #B4D5FE;
+}
+
+.wrapper a:after, footer.main-footer a:after {
+	background: transparent !important;
+}
+
+
+.auto-type-element h2, .auto-type-element h3, .auto-type-element h4, .auto-type-element h5 {
+	font-weight: bold;
+	overflow: hidden;
+}
+
+.section-title {
+	margin-bottom: 44px;
+}
+
+/*
+ * Campus-knappene på forsiden
+ */
+
+.campus-button {
+	transition: 0.15s all;
+}
+
+.campus-button h2 {
+	font-weight: bolder;
+}
+
+.campus-button h2 a {
+	margin-top: -10px !important;
+}
+
+@media (min-width: 768px) {
+	.campus-button:hover {
+		transform: scale(1.03, 1.03);
+	}
+}
+
+@media (max-width: 767px) {
+	.campus-button h2 a {
+		margin-left: -14px !important;
+	}
+}
+
+@media (min-width: 1360px) {
+	.container {
+		width: 1300px;
+	}
+	
+}
+
+.mobile-campus-banner {
+	border-radius: 10px;
+}
+
+
+/**
+ * Custom-knapper for "til og fra"
+ * 
+*/
+
+.kristiania-button {
+	border-radius: 10px;
+	height: 60px;
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 100%;
+	padding-top: 15px;
+	margin-top: -15px;
+	margin-right: 10px;
+	transition: 0.2s all;
+	background-color: #646b71;
+	
+}
+
+.kristiania-button-icon {
+	height: 30px;
+	width: 30px;
+	object-fit: contain;
+	margin-right: 20px;
+}
+
+.external-icon {
+	height: 20px;
+	right: 20px;
+	top: 20px;
+	position: absolute;
+}
+
+.kristiania-button:hover {
+	opacity: 0.8;
+	background-color: #2261c2;
+}
+
+.section-title p {
+	color: #808080;
+	font-weight: bold;
+}
+
+.footer-bottom-content, .footer-content-left {
+	font-weight: bold;
+}
+
+.footer-bottom {
+	border-top: 1px solid #EBEBEB;
+}
+
+/*
+ * Navigasjon
+ */
+
+#menu-hovedmeny {
+	font-weight: bold;
+}
+
+#menu-hovedmeny .menu-item a {
+	font-size: 20pt;
+	margin-bottom: 7px;
+	/* background-color: grey;
+	width: 100%; */
+}
+
+.mobile-menu-wrapper .mobile-menu-container div.menu>ul>li ul, .mobile-menu-wrapper .mobile-menu-container ul.menu>li ul {
+	/* height: auto; */
+	padding-top: 16px;
+	margin-left: 28px;
+	margin-right: 28px;
+}
+
+.mobile-menu-wrapper.mobile-menu-slide .mobile-menu-container {
+	min-width: 100%;
+	max-width: 100% !important;
+}
+
+.sub-menu {
+	border-radius: 10px;
+	background-color: #fbe48c !important;
+	transition: 0.2s all;
+}
+
+.sub-menu a {
+	color: black !important;
+	transition: 0.2s all;
+}
+
+.mobile-menu-wrapper .mobile-menu-container div.menu>ul li.menu-item-has-children>a:after, .mobile-menu-wrapper .mobile-menu-container ul.menu li.menu-item-has-children>a:after {
+	display: none;
+}
+
+nav {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+nav a {
+	transition: 0.25s all;
+	/* color: darkgray !important; */
+}
+
+nav a:hover {
+	/* opacity: 0.55; */
+	text-decoration: underline !important;
+}
+
+.main-header.menu-type-standard-menu .standard-menu-container div.menu>ul>li+li, .main-header.menu-type-standard-menu .standard-menu-container ul.menu>li+li {
+	margin-left: 24px !important;
+}
+
+
+/*
+ * Infobokser på campus-sidene
+*/
+
+
+.facility-box {
+	z-index: 10000 !important;
+	text-align: center;
+	border-radius: 10px;
+	overflow: hidden;
+	width: 100%;
+}
+
+.facility-box, .facility-box p, .facility-box a {
+	color: black;
+	transition: 0.2s all;
+}
+
+@media (min-width: 768px) {
+	.facility-box:hover {
+		transform: scale(1.012, 1.012); 
+	}
+}
+
+.facility-box a {
+	text-decoration: underline;
+}
+
+.facility-container > * {
+	margin: 10px;
+}
+
+.facility-image {
+	bottom: 0px;	
+
+}
