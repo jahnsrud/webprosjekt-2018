@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'alefbold';
+    src: url('Alef-Bold-webfont.eot');
+    src: url('Alef-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Alef-Bold-webfont.woff2') format('woff2'),
+         url('Alef-Bold-webfont.woff') format('woff'),
+         url('Alef-Bold-webfont.ttf') format('truetype'),
+         url('Alef-Bold-webfont.svg#alefbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

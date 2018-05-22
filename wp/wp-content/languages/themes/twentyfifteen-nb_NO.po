@@ -1,0 +1,312 @@
+# Translation of Themes - Twenty Fifteen in Norwegian (Bokmål)
+# This file is distributed under the same license as the Themes - Twenty Fifteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-18 14:43:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Themes - Twenty Fifteen\n"
+
+#. Description of the plugin/theme
+msgid "Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer."
+msgstr "Vårt standardtema for 2015 er stilrent, bloggfokusert og designet for tydelighet. Twenty Fifteens enkle, ukompliserte typografi er lesbar på en lang rekke skjermstørrelser og tilpasset flere språk. Vi designet det med en mobil-først-tilnærming, som betyr at innholdet ditt får hovedfokus, uansett om dine besøkende kommer via smarttelefon, nettbrett, bærbar eller stasjonær datamaskin."
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Fifteen"
+msgstr "Twenty Fifteen"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Én kommentar til &laquo;%s&raquo;"
+
+#. translators: %s: post title
+#: inc/template-tags.php:130
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Legg igjen en kommentar<span class=\"screen-reader-text\"> til %s</span>"
+
+#: single.php:39
+msgid "Previous post:"
+msgstr "Forrige innlegg:"
+
+#: single.php:38
+msgid "Previous"
+msgstr "Forrige"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "Neste innlegg:"
+
+#: single.php:35
+msgid "Next"
+msgstr "Neste"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: inc/template-tags.php:120
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Full størrelse"
+
+#: inc/template-tags.php:108
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Stikkord"
+
+#: inc/template-tags.php:99
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategorier"
+
+#: inc/template-tags.php:95 inc/template-tags.php:104
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:89
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Forfatter"
+
+#: inc/template-tags.php:79
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publisert"
+
+#: inc/template-tags.php:56
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:49
+msgid "Featured"
+msgstr "Fremhevet"
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "Eldre kommentarer"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: inc/customizer.php:226
+msgid "Blue"
+msgstr "Blå"
+
+#: inc/customizer.php:215
+msgid "Purple"
+msgstr "Lilla"
+
+#: inc/customizer.php:204
+msgid "Pink"
+msgstr "Rosa"
+
+#: inc/customizer.php:193
+msgid "Yellow"
+msgstr "Gul"
+
+#: inc/customizer.php:182
+msgid "Dark"
+msgstr "Mørk"
+
+#: inc/customizer.php:171
+msgid "Default"
+msgstr "Standard"
+
+#: inc/customizer.php:93
+msgid "Header and Sidebar Background Color"
+msgstr "Bakgrunnsfarge i sidetopp og sidekolonne"
+
+#: inc/customizer.php:72 inc/customizer.php:94 inc/customizer.php:101
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "Benyttes i sidetoppen på små skjermer og i sidekolonnen på brede skjermer."
+
+#: inc/customizer.php:71
+msgid "Header and Sidebar Text Color"
+msgstr "Tekstfarge i sidetopp og sidekolonne"
+
+#: inc/customizer.php:51
+msgid "Base Color Scheme"
+msgstr "Grunnpalett"
+
+#: inc/back-compat.php:37 inc/back-compat.php:48 inc/back-compat.php:62
+msgid "Twenty Fifteen requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fifteen krever minst WordPress versjon 4.1. Du kjører versjon %s. Vennligst oppgrader og forsøk igjen."
+
+#: image.php:88
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Hører til</span><span class=\"post-title\">%title</span>"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Neste bilde"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Forrige bilde"
+
+#: header.php:49
+msgid "Menu and widgets"
+msgstr "Meny og widgeter"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Hopp til innhold"
+
+#: functions.php:312
+msgid "collapse child menu"
+msgstr "Slå sammen undermeny"
+
+#: functions.php:311
+msgid "expand child menu"
+msgstr "Utvid undermeny"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:238
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:230
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:222
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:214
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:187
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Legg til widgeter her som skal vises i sidekolonnen."
+
+#: functions.php:185
+msgid "Widget Area"
+msgstr "Widgetområde"
+
+#: functions.php:87
+msgid "Social Links Menu"
+msgstr "Sosiale medier-meny"
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr "Primærmeny"
+
+#: footer.php:31
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 2.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:30
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men det ble ikke funnet noe som passet det du søkte etter. Vennligst prøv med noen andre søkeord."
+
+#: content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: content-link.php:60 content-page.php:37 content-search.php:28
+#: content-search.php:33 content.php:61 image.php:74
+msgid "Edit"
+msgstr "Rediger"
+
+#: content-link.php:39 content-page.php:26 content.php:41 image.php:61
+msgid "Pages:"
+msgstr "Sider:"
+
+#. translators: %s: Name of current post
+#: content-link.php:32 content.php:34 inc/template-tags.php:249
+msgid "Continue reading %s"
+msgstr "Fortsett å lese %s"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Det er stengt for kommentarer."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s kommentar til &laquo;%2$s&raquo;"
+msgstr[1] "%1$s kommentarer til &laquo;%2$s&raquo;"
+
+#: author-bio.php:34
+msgid "View all posts by %s"
+msgstr "Vis alle innlegg av %s"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "Skrevet av"
+
+#: archive.php:53 content-link.php:43 content-page.php:30 content.php:45
+#: image.php:65 index.php:50 search.php:43
+msgid "Page"
+msgstr "Side"
+
+#: archive.php:52 index.php:49 search.php:42
+msgid "Next page"
+msgstr "Neste side"
+
+#: archive.php:51 index.php:48 search.php:41
+msgid "Previous page"
+msgstr "Forrige side"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det ble ikke funnet noe her. Kanskje du kan prøve å søke?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Denne siden ble ikke funnet"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "WordPress-gjengen"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyfifteen/"
+msgstr "https://wordpress.org/themes/twentyfifteen/"

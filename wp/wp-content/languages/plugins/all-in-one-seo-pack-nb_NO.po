@@ -1,0 +1,3133 @@
+# Translation of Plugins - All in One SEO Pack - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - All in One SEO Pack - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-27 17:12:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - All in One SEO Pack - Stable (latest release)\n"
+
+#: modules/aioseop_opengraph.php:372
+msgid "Custom Twitter Image"
+msgstr "Egendefinert Twitter bilde"
+
+#: modules/aioseop_opengraph.php:114
+msgid "This option lets you upload an image to use as the Twitter image for this Page or Post."
+msgstr "Dette alternativet lar deg laste opp et bilde som kan brukes som Twitter bilde for denne Siden eller Innlegg."
+
+#: aioseop_class.php:872
+msgid "Redirect Attachments to Post Parent:"
+msgstr "Omdiriger vedlegg til foreldre innlegg:"
+
+#: aioseop_class.php:226
+msgid "Redirect attachment pages to post parent."
+msgstr "Omdiriger vedlagt side til foreldre innlegg."
+
+#: modules/aioseop_sitemap.php:52
+msgid "Dynamically creates the XML sitemap instead of using a static file."
+msgstr "Dynamisk skaper XML sidekart istedenfor å bruke en statisk fil."
+
+#: modules/aioseop_importer_exporter.php:553
+msgid "<b>Security warning:</b> Your file looks compromised. Please check the file for any script-injection."
+msgstr "<b> Sikkerhets advarsel: </b> Filen ser kompromittert. Vennligst sjekk filen for skript-injeksjon."
+
+#. translators: %1$s expands to the number of languages All in One SEO Pack has
+#. been translated into. $2%s to the percentage translated of the current
+#. language, $3%s to the language name, %4$s and %5$s to anchor tags with link
+#. to translation page at translate.wordpress.org
+#: admin/display/general-metaboxes.php:98
+msgid "All in One SEO Pack has been translated into %1$s languages, but currently the %3$s translation is only %2$s percent complete. %4$s Click here %5$s to help get it to 100 percent."
+msgstr "Alt i Ett SEO Pack er oversatt til %1$s språk, men for tiden %3$s oversettelse er bare %2$s prosent fullført. %4$s Klikk her %5$s til å bidra til å få det til 100 prosent."
+
+#: admin/meta_import.php:79 admin/meta_import.php:85
+msgid "Sorry, you can't do that. Please choose a platform and then click Analyze or Convert."
+msgstr "Beklager, du kan ikke gjøre det. Velg en plattform, og klikk deretter Analyser eller Konverter."
+
+#: aioseop_class.php:3082
+msgid "New in 2.4: Improved support for taxonomies, Woocommerce and massive performance improvements under the hood! Please review your settings on each options page!"
+msgstr "Nytt i 2.4: Forbedret støtte for taksonomi, Woocommerce og massive ytelsesforbedringer under panseret! Gå gjennom innstillingene på hver alternativ side!"
+
+#: aioseop_class.php:444
+msgid "Capitalize Tag and Search Titles:"
+msgstr "Gi tagger og søketitler store bokstaver:"
+
+#: admin/meta_import.php:199
+msgid "Convert"
+msgstr "Konverter"
+
+#: admin/meta_import.php:198
+msgid "Analyze"
+msgstr "Analyser"
+
+#: admin/meta_import.php:187
+msgid "Themes"
+msgstr "Temaer"
+
+#: admin/meta_import.php:179
+msgid "Plugins"
+msgstr "Utvidelser"
+
+#: admin/meta_import.php:177
+msgid "Choose platform:"
+msgstr "Velg plattform:"
+
+#: admin/meta_import.php:175
+msgid "Import SEO data from:"
+msgstr "Importer SEO-data fra:"
+
+#: admin/meta_import.php:165
+msgid "Before performing an import, we strongly recommend that you make a backup of your site. We use and recommend %s BackupBuddy %s for backups."
+msgstr "Før du utfører en import anbefaler vi sterkt at du backer opp siden din. Vi bruker og anbefaler %s BackupBuddy %s for backuper."
+
+#: admin/meta_import.php:161
+msgid "Click \"Convert\" to perform the import. After the import has completed, you will be alerted to how many records were imported, and how many records had to be ignored, based on the criteria above."
+msgstr "Klikk \"Konverter\" for å utføre importen. Etter at importen er fullført blir du varslet om hvor mange oppføringer som ble importert, og hvor mange oppføringer som måtte bli ignorert, basert på kriteriene over."
+
+#: admin/meta_import.php:157
+msgid "Some plugins and themes do not share similar data, or they store data in a non-standard way. If we cannot import this data, it will remain unchanged in your database. Any compatible SEO data will be displayed for you to review. If a post or page already has SEO data in All in One SEO Pack, we will not import data from another plugin/theme."
+msgstr "Noen pluginer og maler deler ikke lignende data, eller de lagrer data på en måte som ikke er standard. Hvis vi ikke klarer å importere disse dataene blir de værende uendret i databasen. Alle kompatible SEO-data vil bli fremvist slik at du kan gå gjennom dem. Hvis et innlegg eller en side allerede har SEO-data i All in One SEO Pack importerer vi ikke data fra en annen plugin/mal."
+
+#: admin/meta_import.php:157
+msgid "Please Note: "
+msgstr "Vennligst merk:"
+
+#: admin/meta_import.php:153
+msgid "Click \"Analyze\" for a list of SEO data that can be imported into All in One SEO Pack, along with the number of records that will be imported."
+msgstr "Klikk \"Analyser\" for en liste over SEO-data som kan importeres til All in One SEO Pack, sammen med antall oppføringer som vil bli importert."
+
+#: admin/meta_import.php:149
+msgid "Use the drop down below to choose which plugin or theme you wish to import SEO data from."
+msgstr "Bruk rullegardinet under for å velge hvilken plugin eller man du ønsker å importere SEO-data fra."
+
+#: admin/meta_import.php:146
+msgid "Import SEO Settings"
+msgstr "Importer SEO-innstillinger"
+
+#: admin/meta_import.php:117
+msgid "Conversion Results"
+msgstr "Konverteringsresultater"
+
+#: admin/meta_import.php:107
+msgid "Compatible data:"
+msgstr "Kompatible data:"
+
+#: admin/meta_import.php:103
+msgid "<p>Analyzing records in a %s to %s conversion&hellip;"
+msgstr "<p>Analyserer oppføringer i en %s til %s konversjon&hellip;"
+
+#: admin/meta_import.php:98 admin/meta_import.php:121
+msgid "Sorry, something went wrong. Please try again"
+msgstr "Beklager, noe gikk galt. Vennligst prøv igjen"
+
+#: admin/meta_import.php:94
+msgid "Analysis Results"
+msgstr "Analyseresultater"
+
+#: admin/meta_import.php:62
+msgid "SEO Data Import"
+msgstr "SEO-data import"
+
+#: admin/meta_import.php:62
+msgid "Import SEO Data"
+msgstr "Importer SEO-data"
+
+#: admin/meta_import.php:37
+msgid "All in One SEO has been deactivated"
+msgstr "All in One SEO har blitt deaktivert"
+
+#: admin/meta_import.php:32
+msgid "The plugin All-In-One-SEO has been detected. Do you want to %simport its settings%s?"
+msgstr "Utvidelsen All-In-One-SEO har blitt oppdaget. Ønsker du å %simportere innstillingene derfra%s?"
+
+#: admin/meta_import.php:28
+msgid "The plugin Yoast SEO has been detected. Do you want to %simport its settings%s into All in One SEO Pack?"
+msgstr "Pluginen Yoast SEO har blitt oppdaget. Ønsker du å %simportere settingene%s til All in One SEO Pack?"
+
+#: modules/aioseop_feature_manager.php:75
+msgid "Pro Version Only"
+msgstr "Kun Proversjon"
+
+#: aioseop_class.php:3704
+msgid "%s Upgrade%s to All in One SEO Pack Pro for increased SEO compatibility for your products."
+msgstr "%s Oppgrader%s til All in One SEO Pack Pro for økt SEO-kompatibilitet for produktene dine."
+
+#: aioseop_class.php:3703
+msgid "We've detected you're running WooCommerce."
+msgstr "Vi har oppdaget at du kjører WooCommerce."
+
+#. Description of the plugin/theme
+msgid "Out-of-the-box SEO for your WordPress blog. Features like XML Sitemaps, SEO for custom post types, SEO for blogs or business sites, SEO for ecommerce sites, and much more. Almost 30 million downloads since 2007."
+msgstr "Ut-av-boksen SEO for WordPress-bloggen din. Funksjoner som XML Nettstedkart, SEO for tilpassede innleggstyper, SEO for blogger eller bedriftsnettsteder, SEO for e-handelnettsteder og mye mer. Nesten 30 millioner nedlastinger siden 2007."
+
+#: modules/aioseop_performance.php:318
+msgid "Check For Updates"
+msgstr "Sjekk etter oppdateringer"
+
+#: modules/aioseop_performance.php:294
+msgid "%s has checked for updates."
+msgstr "%s har sett etter oppdateringer."
+
+#: modules/aioseop_feature_manager.php:68
+msgid "Create and manage your Video Sitemap using this feature and submit your Video Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Opprett og administrer ditt Video Nettstedkart ved hjelp av denne funksjonen og send inn ditt Video Nettstedkart til Google, Bing/Yahoo og Ask.com."
+
+#: modules/aioseop_feature_manager.php:63
+msgid "Image SEO"
+msgstr "SEO bilder"
+
+#: modules/aioseop_bad_robots.php:38
+msgid "Use Custom Blocklists"
+msgstr "Bruk egendefinerte blokkeringslister"
+
+#: modules/aioseop_bad_robots.php:37
+msgid "Block Bad Bots using .htaccess"
+msgstr "Blokker Bad Bots ved hjelp av .htaccess"
+
+#: modules/aioseop_bad_robots.php:35
+msgid "Block Referral Spam using HTTP"
+msgstr "Blokker Referral Spam ved hjelp av HTTP"
+
+#: modules/aioseop_bad_robots.php:34
+msgid "Block Bad Bots using HTTP"
+msgstr "Blokker Bad Bots ved hjelp av HTTP"
+
+#: modules/aioseop_bad_robots.php:24
+msgid "Block Referral Spam using HTTP."
+msgstr "Blokker Referral Spam ved hjelp av HTTP."
+
+#: inc/commonstrings.php:39
+msgid "Manage Licenses"
+msgstr "Administrer lisenser"
+
+#: inc/commonstrings.php:38
+msgid "Notice: "
+msgstr "Varsel:"
+
+#: inc/commonstrings.php:37
+msgid " Need a license key?"
+msgstr "Trenger du lisensnøkkel?"
+
+#: inc/commonstrings.php:36
+msgid "License Key is not set yet or invalid. "
+msgstr "Lisensnøkkel er ikke angitt eller er ugyldig."
+
+#: inc/commonstrings.php:35
+msgid "Purchase one now"
+msgstr "Kjøp en nå"
+
+#: inc/commonstrings.php:32
+msgid "Finished scanning posts"
+msgstr "Ferdig å skanne innlegg"
+
+#: inc/commonstrings.php:29
+msgid "Scan"
+msgstr "Søk gjennom"
+
+#: inc/commonstrings.php:28
+msgid "You do not have access to this page; try logging in as an administrator."
+msgstr "Du har ikke tilgang til denne siden; prøv å logge inn som administrator."
+
+#: inc/commonstrings.php:27
+msgid "Enable this option to only allow access to your sitemap by site administrators and major search engines."
+msgstr "Aktiver dette valget for bare å gi tilgang til nettstedkartet ditt for sidens administratorer og de viktigste søkemotorene."
+
+#: inc/commonstrings.php:26
+msgid "If checked, only posts that have videos in them will be displayed on the sitemap."
+msgstr "Hvis haket av vil kun innlegg som har video i seg vises på nettstedkartet."
+
+#: inc/commonstrings.php:25
+msgid "Press the Scan button to scan your posts for videos! Do this if video content from a post or posts is not showing up in your sitemap."
+msgstr "Trykk på Skann-knappen for å skanne innleggene dine etter videoer! Gjør dette hvis videoinnhold fra ett eller flere innlegg ikke vises i ditt nettstedkart."
+
+#: inc/commonstrings.php:24
+msgid "Restrict Access to Video Sitemap"
+msgstr "Begrens tilgang til video-sidekart"
+
+#: inc/commonstrings.php:23
+msgid "Scan Posts For Videos"
+msgstr "Søk gjennom innlegg etter video"
+
+#: inc/commonstrings.php:22
+msgid "Show Only Posts With Videos"
+msgstr "Vis bare innlegg med video"
+
+#: all_in_one_seo_pack.php:288
+msgid "Amazon Wishlist"
+msgstr "Ønskeliste Amazon"
+
+#: all_in_one_seo_pack.php:340
+msgid "Upgrade to Pro"
+msgstr "Oppgrader til Pro"
+
+#: all_in_one_seo_pack.php:329
+msgid "Documentation"
+msgstr "Dokumentasjon"
+
+#: all_in_one_seo_pack.php:319
+msgid "SEO Settings"
+msgstr "SEO-innstillinger"
+
+#: aioseop_class.php:4707
+msgid "About"
+msgstr "Om"
+
+#: aioseop_class.php:3767
+msgid "Debug String"
+msgstr "Debug Streng"
+
+#: aioseop_class.php:3074
+msgid "Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Takk for at du bruker den siste og beste All in One SEO Pack Pro noensinne! Vennligst gå gjennom innstillingene dine, siden vi stadig legger til nye funksjoner for deg!"
+
+#: aioseop_class.php:3239
+msgid "%taxonomy_description% - The description of the taxonomy"
+msgstr "%taxonomy_description% - Beskrivelse av taksonomien"
+
+#: aioseop_class.php:3238
+msgid "%taxonomy_title% - The original title of the taxonomy"
+msgstr "%taxonomy_title% - Taksonomiens originale tittel"
+
+#: aioseop_class.php:3224
+msgid "Taxonomy Title Format:"
+msgstr "Tittelformat taksonomi:"
+
+#: aioseop_class.php:965 all_in_one_seo_pack.php:324
+msgid "Support Forum"
+msgstr "Brukerstøtteforum"
+
+#: aioseop_class.php:535
+msgid "SEO on only these taxonomies:"
+msgstr "SEO bare for disse taksonomiene:"
+
+#: aioseop_class.php:339
+msgid "License Key:"
+msgstr "Lisensnøkkel:"
+
+#: aioseop_class.php:178
+msgid "Use these checkboxes to select which Taxonomies you want to use All in One SEO Pack with."
+msgstr "Bruk disse avkrysningsboksene for å velge hvilke Taksonomier du vil bruke All in One SEO Pack med."
+
+#: aioseop_class.php:80
+msgid "This will be the license key received when the product was purchased. This is used for automatic upgrades."
+msgstr "Dette er lisensnøkkelen du mottok da du kjøpte produktet. Den brukes til automatiske oppdateringer."
+
+#: modules/aioseop_opengraph.php:202
+msgid "Facebook App ID"
+msgstr "Facebook App-ID"
+
+#: modules/aioseop_opengraph.php:197
+msgid "Facebook Admin ID"
+msgstr "Facebook Admin-ID"
+
+#: aioseop_class.php:3682
+msgid "You can %s click here%s to go to your reading settings and toggle your blog visibility."
+msgstr "Du kan %s klikke her%s for å gå til leseinnstillingene dine og velge synligheten til bloggen din."
+
+#: aioseop_class.php:3681
+msgid "Warning: You're blocking access to search engines."
+msgstr "Advarsel: Du blokkerer tilgangen for søkemotorer."
+
+#. Author URI of the plugin/theme
+msgid "http://michaeltorbert.com"
+msgstr "http://michaeltorbert.com"
+
+#. Author of the plugin/theme
+msgid "Michael Torbert"
+msgstr "Michael Torbert"
+
+#. Plugin URI of the plugin/theme
+msgid "http://semperfiwebdesign.com"
+msgstr "http://semperfiwebdesign.com"
+
+#. Plugin Name of the plugin/theme
+msgid "All In One SEO Pack"
+msgstr "Alt-i-ett SEO Pack"
+
+#: modules/aioseop_sitemap.php:1288
+msgid "Failed to notify %s about changes to your sitemap at %s, unable to access via wp_remote_get()."
+msgstr "Informering av %s angående endringer av ditt sidekart hos %s ble ikke gjennomført, klarte ikke å få tilgang via wp_remote_get()."
+
+#: modules/aioseop_sitemap.php:1285
+msgid "Failed to notify %s about changes to your sitemap at %s, error code %s."
+msgstr "Informering av %s angående endringer av ditt sidekart hos %s ble ikke gjennomført, feilkode %s."
+
+#: modules/aioseop_sitemap.php:1117
+msgid "static"
+msgstr "statisk"
+
+#: modules/aioseop_sitemap.php:1122
+msgid "dynamic"
+msgstr "dynamisk"
+
+#: modules/aioseop_sitemap.php:1119
+msgid "compressed"
+msgstr "komprimert"
+
+#: modules/aioseop_sitemap.php:993
+msgid "Delete Conflicting Files"
+msgstr "Slett filer i konflikt"
+
+#: modules/aioseop_sitemap.php:992
+msgid "Rename Conflicting Files"
+msgstr "Endre navn på filer i konflikt"
+
+#: modules/aioseop_sitemap.php:958
+msgid "Potential conflict with unknown file %s."
+msgstr "Potensiell konflikt med ukjent fil %s."
+
+#: modules/aioseop_sitemap.php:953
+msgid "Warning: a static sitemap '%s' generated by All in One SEO Pack %s on %s already exists that may conflict with dynamic sitemap generation."
+msgstr "Advarsel: et statisk sidekart '%s' generert av alt-iett One SEO Pack %s på %s, som muligens havner i konflikt med dynamisk sidekartgenerering, eksisterer allerede."
+
+#: modules/aioseop_sitemap.php:874
+msgid "Couldn't find file %s!"
+msgstr "Klarte ikke å finne fil %s!"
+
+#: modules/aioseop_sitemap.php:870
+msgid "Renamed %s to %s."
+msgstr "endret naven på %s til %s."
+
+#: modules/aioseop_sitemap.php:866
+msgid "Couldn't rename file %s!"
+msgstr "Klarte ikke å edre navn på fil %s!"
+
+#: modules/aioseop_sitemap.php:856
+msgid "Deleted %s."
+msgstr "Slettet %s."
+
+#: modules/aioseop_sitemap.php:839
+msgid "Warning: dynamic sitemap generation must have permalinks enabled."
+msgstr "Advarsel: dynamisk sidekartgenerering må ha permalinks tillatt."
+
+#: modules/aioseop_sitemap.php:640
+msgid "Warning: your privacy settings are configured to ask search engines to not index your site; you can change this under %s for your blog."
+msgstr "Advarsel: Dine privatinnstillinger er konfigurert til å be søkemotorer om ikke å indekse din side; du kan endre dette under %s for din blogg."
+
+#: modules/aioseop_sitemap.php:638
+msgid "Privacy Settings"
+msgstr "Personverninnstillinger"
+
+#: modules/aioseop_sitemap.php:636
+msgid "Reading Settings"
+msgstr "Leseinnstillinger"
+
+#: modules/aioseop_sitemap.php:630
+msgid "Dynamic sitemap generation does not appear to be using the correct rewrite rules; please disable any other sitemap plugins or functionality on your site and reset your permalinks."
+msgstr "Dynamisk sidekartgenerering bruker ikke riktige omskrivingsregler; venligst deaktiver andre sidekartplugins eller funksjonalitet på din side, og resett dine permalinks."
+
+#: modules/aioseop_sitemap.php:616
+msgid "view your sitemap"
+msgstr "Se ditt sidekart."
+
+#: modules/aioseop_sitemap.php:555
+msgid "Update Sitemap"
+msgstr "Oppdater sidekart"
+
+#: modules/aioseop_sitemap.php:478
+msgid " Taxonomy"
+msgstr "Taksonomi"
+
+#: modules/aioseop_sitemap.php:477
+msgid " Post Type"
+msgstr "Innleggstype"
+
+#: modules/aioseop_sitemap.php:476
+msgid "Manually set the frequency for the "
+msgstr "Manuelt sett frekvens for"
+
+#: modules/aioseop_sitemap.php:475
+msgid "Manually set the priority for the "
+msgstr "Manuelt sett prioritering for"
+
+#: modules/aioseop_sitemap.php:471
+msgid "All Taxonomies"
+msgstr "Alle taksonomier"
+
+#: modules/aioseop_sitemap.php:470
+msgid "All Post Types"
+msgstr "Alle innleggstyper"
+
+#: modules/aioseop_sitemap.php:468
+msgid "Media / Attachments"
+msgstr "Media / tillegg"
+
+#: modules/aioseop_sitemap.php:382
+msgid "Daily scheduled sitemap check has finished."
+msgstr "Daglig sjekk av organisert sidekart er ferdig."
+
+#: modules/aioseop_sitemap.php:359
+msgid "Once Monthly"
+msgstr "En gang månedlig "
+
+#: modules/aioseop_sitemap.php:355
+msgid "Once Weekly"
+msgstr "En gang ukentlig"
+
+#: modules/aioseop_sitemap.php:286
+msgid "Frequencies"
+msgstr "Frekvenser"
+
+#: modules/aioseop_sitemap.php:280
+msgid "Priorities"
+msgstr "Prioriteter"
+
+#: modules/aioseop_sitemap.php:274
+msgid "Excluded Items"
+msgstr "Eksluderte ting"
+
+#: modules/aioseop_sitemap.php:264
+msgid "Excluded Pages"
+msgstr "Ekskluderte sider"
+
+#: modules/aioseop_sitemap.php:260
+msgid "Excluded Categories"
+msgstr "Ekskluderte kategorier"
+
+#: modules/aioseop_sitemap.php:250
+msgid "Add URL"
+msgstr "Legg tIl URL"
+
+#: modules/aioseop_sitemap.php:243 modules/aioseop_sitemap.php:268
+msgid "Additional Pages"
+msgstr "Tilleggsider"
+
+#: modules/aioseop_sitemap.php:237
+msgid "Last Modified"
+msgstr "Sist modifisert"
+
+#: modules/aioseop_sitemap.php:230
+msgid "Page Frequency"
+msgstr "Sidefrekvens"
+
+#: modules/aioseop_sitemap.php:223
+msgid "Page Priority"
+msgstr "Sideprioritet"
+
+#: modules/aioseop_sitemap.php:217
+msgid "Page URL"
+msgstr "Side-URL"
+
+#: modules/aioseop_sitemap.php:211
+msgid "Enter information below for any additional links for your sitemap not already managed through WordPress."
+msgstr "Skriv inn informasjonen under for enhver tilleggslink for ditt sidekart som ikke allerede er behandlet med WordPress."
+
+#: modules/aioseop_sitemap.php:197
+msgid "Manually set the %s of your %s."
+msgstr "Manuelt sett %s for din %s"
+
+#: modules/aioseop_sitemap.php:185
+msgid "author pages"
+msgstr "forfattersider"
+
+#: modules/aioseop_sitemap.php:184
+msgid "archive pages"
+msgstr "arkivsider"
+
+#: modules/aioseop_sitemap.php:183
+msgid "taxonomies"
+msgstr "taksonomi"
+
+#: modules/aioseop_sitemap.php:182
+msgid "posts"
+msgstr "innlegg"
+
+#: modules/aioseop_sitemap.php:181
+msgid "homepage"
+msgstr "hjemmeside"
+
+#: modules/aioseop_sitemap.php:174
+msgid "frequency"
+msgstr "frekvens"
+
+#: modules/aioseop_sitemap.php:173
+msgid "priority"
+msgstr "prioritet"
+
+#: modules/aioseop_sitemap.php:160
+msgid "Select Individual"
+msgstr "Velg individ"
+
+#: modules/aioseop_sitemap.php:159
+msgid "Do Not Override"
+msgstr "Ikke overstyr"
+
+#: modules/aioseop_sitemap.php:143
+msgid "Sitemap Status"
+msgstr "Sidekartstatus"
+
+#: modules/aioseop_sitemap.php:132
+msgid "Dynamically Generate Sitemap"
+msgstr "Generer sidekart dynamisk"
+
+#: modules/aioseop_sitemap.php:128
+msgid "Link From Virtual Robots.txt"
+msgstr "Link fra virtuell Robots.txt"
+
+#: modules/aioseop_sitemap.php:124
+msgid "Create Compressed Sitemap"
+msgstr "Lag komprimert sidekart"
+
+#: modules/aioseop_sitemap.php:122
+msgid "Include Author Pages"
+msgstr "Inkluder forfattersider"
+
+#: modules/aioseop_sitemap.php:121
+msgid "Include Date Archive Pages"
+msgstr "Inkluder dataarkivsider"
+
+#: modules/aioseop_sitemap.php:117
+msgid "Taxonomies"
+msgstr "Taksonomier"
+
+#: modules/aioseop_sitemap.php:112
+msgid "Post Types"
+msgstr "Innleggstyper"
+
+#: modules/aioseop_sitemap.php:106
+msgid "Maximum Posts Per Sitemap"
+msgstr "Max antall innlegg per sidekart"
+
+#: modules/aioseop_sitemap.php:102
+msgid "Paginate Sitemap Indexes"
+msgstr "Paginer sidekartindekser"
+
+#: modules/aioseop_sitemap.php:100
+msgid "Enable Sitemap Indexes"
+msgstr "Tillat sidekartindekser"
+
+#: modules/aioseop_sitemap.php:96
+msgid "Monthly"
+msgstr "Månedlig"
+
+#: modules/aioseop_sitemap.php:95
+msgid "Weekly"
+msgstr "Ukentlig"
+
+#: modules/aioseop_sitemap.php:94
+msgid "Daily"
+msgstr "Daglig"
+
+#: modules/aioseop_sitemap.php:93
+msgid "No Schedule"
+msgstr "Ingen tidsskjema"
+
+#: modules/aioseop_sitemap.php:90
+msgid "Schedule Updates"
+msgstr "Tidsskjemaoppdateringer"
+
+#: modules/aioseop_sitemap.php:84
+msgid "Filename Prefix"
+msgstr "Filnavn prefiks"
+
+#: modules/aioseop_sitemap.php:58
+msgid "Use page slugs or page IDs, seperated by commas, to exclude pages from the sitemap."
+msgstr "Bruk sidesnegler eller side ID, delt ved komma, for å ekskludere sider fra sidekartet."
+
+#: modules/aioseop_sitemap.php:57
+msgid "Entries from these categories will be excluded from the sitemap."
+msgstr "Innlegg fra disse kategoriene vil bli ekskludert fra sidekartet."
+
+#: modules/aioseop_sitemap.php:56
+msgid "Last modified date of the page."
+msgstr "Siste modifiserte dato til siden."
+
+#: modules/aioseop_sitemap.php:55
+msgid "The frequency of the page."
+msgstr "Sidens frekvens."
+
+#: modules/aioseop_sitemap.php:54
+msgid "The priority of the page."
+msgstr "Sidens prioritet."
+
+#: modules/aioseop_sitemap.php:53
+msgid "URL to the page."
+msgstr "URL til siden."
+
+#: modules/aioseop_sitemap.php:51
+msgid "Places a link to your Sitemap.xml into your virtual Robots.txt file."
+msgstr "Legger til en link til din  Sitemap.xml i din virtuelle Robots.txt-fil"
+
+#: modules/aioseop_sitemap.php:50
+msgid "Create a compressed sitemap file in .xml.gz format."
+msgstr "Lag en komprimert sidekartfil i .xml.gz format."
+
+#: modules/aioseop_sitemap.php:49
+msgid "Include Author Archives in your sitemap."
+msgstr "inkluder forfatterarkiver i ditt sidekart."
+
+#: modules/aioseop_sitemap.php:48
+msgid "Include Date Archives in your sitemap."
+msgstr "Inkluder dataarkiver i ditt sidekart."
+
+#: modules/aioseop_sitemap.php:47
+msgid "Select which taxonomy archives appear in your sitemap"
+msgstr "Velg hvilke taksonomiarkiver som vises i ditt sidekart."
+
+#: modules/aioseop_sitemap.php:46
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Velg hvilke innlegstyper som vises i ditt sidekart."
+
+#: modules/aioseop_sitemap.php:45
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Dette tillater deg å spesifisere max antall poster i ett sidekart (opp til 50,000)."
+
+#: modules/aioseop_sitemap.php:44
+msgid "Split long sitemaps into separate files."
+msgstr "Del lange sidekart i separate filer."
+
+#: modules/aioseop_sitemap.php:43
+msgid "Organize sitemap entries into distinct files in your sitemap. Enable this only if your sitemap contains over 50,000 URLs or the file is over 5MB in size."
+msgstr "Organiser sidekartoppslag i bestemte filer i ditt sidekart. Bare tillat dette hvis sidekartet ditt har over 50,000 URLs eller filen er større enn 5MB."
+
+#: modules/aioseop_sitemap.php:42
+msgid "Notify search engines based on the selected schedule, and also update static sitemap daily if in use. (this uses WP-Cron, so make sure this is working properly on your server as well)"
+msgstr "Informer søkemotorer basert på den valgte tidsplanen, og oppdater statisk sidekart daglig, hvis det er i bruk. (dette bruker WP-Cron, så forsikre deg om at det virker ordentlig, også hos din server)"
+
+#: modules/aioseop_sitemap.php:41
+msgid "Specifies the name of your sitemap file. This will default to 'sitemap'."
+msgstr "Spesifiserer navnet på sidekartfilen din. Dette vil resettes til 'sidekart'."
+
+#: modules/aioseop_sitemap.php:31
+msgid "XML Sitemap"
+msgstr "XML Sidekart"
+
+#: modules/aioseop_robots.php:363
+msgid "More Information"
+msgstr "Mer informasjon"
+
+#: modules/aioseop_robots.php:361
+msgid "The red indicator means that the syntax is invalid for a robots.txt file."
+msgstr "Den røde indikatoren antyder at syntaksen ikke er gyldig for en robots.txt fil."
+
+#: modules/aioseop_robots.php:360
+msgid "The yellow indicator means that a non-standard extension was recognized; not all crawlers may recognize it or interpret it the same way. The Allow and Sitemap directives are commonly used by Google and Yahoo."
+msgstr "Den gule indikatoren antyder at en ikke-standard forlengelse ble gjenkjent; ikke alle krypere gjenkjenner eller tolker dette på samme måte. Tillat- og Sidekartdirektivene blir vanligvs brukt av Google og Yahoo."
+
+#: modules/aioseop_robots.php:358
+msgid "Legend"
+msgstr "Legende"
+
+#: modules/aioseop_robots.php:299
+msgid "Proposed Changes"
+msgstr "Foreslåtte endringer"
+
+#: modules/aioseop_robots.php:299 modules/aioseop_robots.php:301
+msgid "Current File"
+msgstr "Nåværende fil"
+
+#: modules/aioseop_robots.php:154
+msgid "Your Robots.txt file has been optimized.  Here are the results and recommendations.  Click the Update Robots.txt File button below to write these changes to your Robots.txt file.  Click the Disregard Changes button to ignore these recommendations and keep your current Robots.txt file."
+msgstr "Din Robots.txt har blitt oppdatert. Her er resultatene og videre anbefalinger. Klikk på Oppdater Robots.txt-fil under, for å skrive inn disse endringene i din Robots.txt-fil. Klikk på Fjern endringer, for å ignorerer disse anbefalingene og å beholde din nåværende Robots.txt-fil, slik den er. "
+
+#: modules/aioseop_robots.php:144
+msgid "Optimize your Robots.txt File"
+msgstr "Forbedre din Robots.txt-fil"
+
+#: modules/aioseop_robots.php:130
+msgid "Create a Robots.txt File"
+msgstr "Lag Robots.txt-fil"
+
+#: modules/aioseop_robots.php:97
+msgid "Optimize"
+msgstr "Forbedre"
+
+#: modules/aioseop_robots.php:91
+msgid "Disregard Changes"
+msgstr "Fjern endringer"
+
+#: modules/aioseop_robots.php:84
+msgid "Update Robots.txt File"
+msgstr "Oppdater Robots.txt-fil."
+
+#: modules/aioseop_robots.php:78
+msgid "Click the Optimize button below and All in One SEO Pack will analyze your Robots.txt file to make sure it complies with the standards for Robots.txt files.  The results will be displayed in a table below."
+msgstr "Klikk på forbedringsknappen under, og alt-i-ett One SEO Pack analyserer din Robots.txt for å bekrefte at den samsvarer med gitt standard for Robots.txt-filer. Resultatet vil vises i en tabell under."
+
+#: modules/aioseop_robots.php:72
+msgid "Delete Robots.txt File"
+msgstr "Slett Robots.txt-fil"
+
+#: modules/aioseop_robots.php:66
+msgid "Save Robots.txt File"
+msgstr "Lagre Robots.txt-fil"
+
+#: modules/aioseop_robots.php:60
+msgid "Add Rule"
+msgstr "Legg til Linje / regel"
+
+#: modules/aioseop_robots.php:48
+msgid "Generate Robots.txt"
+msgstr "Lag Robots.txt"
+
+#: modules/aioseop_robots.php:28
+msgid "Use the rule builder below to add rules to create a new Robots.txt file.  If you already have a Robots.txt file you should use the File Editor feature in All in One SEO Pack to edit it or you can delete your current Robots.txt file and start a new one with the rule builder below."
+msgstr "Bruke linje- / regelbyggeren under for å legge til linjer for å lage en ny Robots.txt-fil. Hvis du allerede har en Robots.txt-fil bør du bruke filredigeringsfunksjonen i alt-i-ett One SEO Pack for å redigere. Eventuelt kan du slette din nåværende Robots.txt-fil og lage en ny med linje-/regelbyggeren under. "
+
+#: modules/aioseop_robots.php:20 modules/aioseop_robots.php:43
+msgid "Directory Path"
+msgstr "Direktivvei"
+
+#: modules/aioseop_robots.php:19 modules/aioseop_robots.php:38
+msgid "User Agent"
+msgstr "Brukeragent"
+
+#: modules/aioseop_robots.php:18 modules/aioseop_robots.php:32
+msgid "Rule Type"
+msgstr "Linjetype / regeltype"
+
+#: modules/aioseop_performance.php:315
+msgid "Submit"
+msgstr "Send"
+
+#: modules/aioseop_performance.php:314
+msgid "E-mail debug information"
+msgstr "Email-feilsøking informasjon"
+
+#: modules/aioseop_performance.php:308
+msgid "Error: please enter an e-mail address before submitting."
+msgstr "Feilmelding: Venligst skriv inn en emailadresse før du leverer."
+
+#: modules/aioseop_performance.php:305
+msgid "Failed to send to %s."
+msgstr "Ikke sendt til %s."
+
+#: modules/aioseop_performance.php:303
+msgid "Sent to %s."
+msgstr "Sendt til %s."
+
+#: modules/aioseop_performance.php:302
+msgid "SFWD Debug Mail From Site %s."
+msgstr "SFWD Debug Mail fra side %s."
+
+#: modules/aioseop_performance.php:288
+msgid "Form submission error: verification check failed."
+msgstr "Skjema for innlevering av feil: bekreftelsestest feilet."
+
+#: modules/aioseop_performance.php:270
+msgid "All in One SEO Pack Pro Debug Info"
+msgstr "Alt-i-ett SEO Pack Pro Debug Info"
+
+#: modules/aioseop_performance.php:255
+msgid "Active Theme"
+msgstr "Aktivt tema"
+
+#: modules/aioseop_performance.php:254
+msgid "Multisite"
+msgstr "Nettstedsnettverk"
+
+#: modules/aioseop_performance.php:253
+msgid "WordPress DB Version"
+msgstr "WordPress DB-versjon"
+
+#: modules/aioseop_performance.php:252
+msgid "WordPress Version"
+msgstr "WordPress-versjon"
+
+#: modules/aioseop_performance.php:251
+msgid "Home URL"
+msgstr "Hjemme-URL"
+
+#: modules/aioseop_performance.php:250
+msgid "Site URL"
+msgstr "Nettsteds-URL"
+
+#: modules/aioseop_performance.php:249
+msgid "PHP XML support"
+msgstr "PHP XML-støtte"
+
+#: modules/aioseop_performance.php:248
+msgid "PHP IPTC support"
+msgstr "PHP IPTC-støtte"
+
+#: modules/aioseop_performance.php:247
+msgid "PHP Exif support"
+msgstr "PHP Exif støtte"
+
+#: modules/aioseop_performance.php:246
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max skrift utførelsestid"
+
+#: modules/aioseop_performance.php:245
+msgid "PHP Max Post Size"
+msgstr "PHP Max innleggsstørrelse"
+
+#: modules/aioseop_performance.php:244
+msgid "PHP Max Upload Size"
+msgstr "PHP Max opplastingsstørrelse"
+
+#: modules/aioseop_performance.php:243
+msgid "PHP Memory Limit"
+msgstr "PHP Minnegrense"
+
+#: modules/aioseop_performance.php:242
+msgid "PHP Allow URL fopen"
+msgstr "PHP tillat URL fopen"
+
+#: modules/aioseop_performance.php:241
+msgid "PHP Version"
+msgstr "PHP Versjon"
+
+#: modules/aioseop_performance.php:240
+msgid "SQL Mode"
+msgstr "SQL Modus"
+
+#: modules/aioseop_performance.php:239
+msgid "MYSQL Version"
+msgstr "MYSQL Versjon"
+
+#: modules/aioseop_performance.php:238
+msgid "Memory usage"
+msgstr "Minnebruk"
+
+#: modules/aioseop_performance.php:237
+msgid "Server"
+msgstr "Server"
+
+#: modules/aioseop_performance.php:236
+msgid "Operating System"
+msgstr "Operasjonssystem"
+
+#: modules/aioseop_performance.php:203 modules/aioseop_performance.php:208
+#: modules/aioseop_performance.php:213 modules/aioseop_performance.php:222
+msgid "Yes"
+msgstr "Ja"
+
+#: modules/aioseop_performance.php:198
+msgid " MByte"
+msgstr " MByte"
+
+#: modules/aioseop_performance.php:180 modules/aioseop_performance.php:185
+#: modules/aioseop_performance.php:190 modules/aioseop_performance.php:195
+#: modules/aioseop_performance.php:200 modules/aioseop_performance.php:228
+msgid "N/A"
+msgstr "N/A"
+
+#: modules/aioseop_performance.php:175
+msgid "Off"
+msgstr "av"
+
+#: modules/aioseop_performance.php:173
+msgid "On"
+msgstr "på"
+
+#: modules/aioseop_performance.php:170
+msgid "Not set"
+msgstr "Ikke satt"
+
+#: modules/aioseop_performance.php:86
+msgid "System Status"
+msgstr "Systemstatus"
+
+#: modules/aioseop_performance.php:49
+msgid "No limit"
+msgstr "Ingen grense"
+
+#: modules/aioseop_performance.php:40
+msgid "Raise execution time"
+msgstr "Øk utførelsestiden"
+
+#: modules/aioseop_performance.php:32 modules/aioseop_performance.php:44
+msgid "Use the system default"
+msgstr "Bruk systemstandarden."
+
+#: modules/aioseop_performance.php:28
+msgid "Raise memory limit"
+msgstr "Øk minnegrense"
+
+#: modules/aioseop_performance.php:23
+msgid "Use output buffering to ensure that the title gets rewritten. Enable this option if you run into issues with the title tag being set by your theme or another plugin."
+msgstr "Bruk produsert buffering for å forsikre at tittelen blir omskrevet. Tillat dette alternativet hvis du opplever problemer med at tittelmerket blir satt av ditt tema eller et annet plugin."
+
+#: modules/aioseop_performance.php:22
+msgid "This setting allows you to raise your PHP execution time to a reasonable value."
+msgstr "Dette alternativet lar deg øke din PHP utførelsestid til en fornuftig verdi."
+
+#: modules/aioseop_performance.php:21
+msgid "This setting allows you to raise your PHP memory limit to a reasonable value. Note: WordPress core and other WordPress plugins may also change the value of the memory limit."
+msgstr "Denne innstilingen tillater at du øker din PHP minnegrense til en fornuftig verdi. NB: WordPress kjerne og andre Wordpress plugins kan også endre verdien til minnegrensen."
+
+#: modules/aioseop_opengraph.php:1288
+msgid "Choose a default value that best describes the content of your post type."
+msgstr "Velg en standardverdi som best beskriver innholdet av din innleggstype."
+
+#: modules/aioseop_opengraph.php:1281
+msgid "Object Type"
+msgstr "Objekttype"
+
+#: modules/aioseop_opengraph.php:757
+msgid "Scan your site for duplicate social meta tags."
+msgstr "Skann din side for duplikerte sosiale metamerker."
+
+#: modules/aioseop_opengraph.php:756
+msgid "Scan Now"
+msgstr "Skann nå"
+
+#: modules/aioseop_opengraph.php:689
+msgid "Default "
+msgstr "Standard"
+
+#: modules/aioseop_opengraph.php:637
+msgid "Blog on front page detected, suggested Facebook Object Type is 'blog'."
+msgstr "Blogg på forside oppdaget, anbefalt Facebook Objekt Type er 'blog'."
+
+#: modules/aioseop_opengraph.php:632
+msgid "Static front page detected, suggested Facebook Object Type is 'website'."
+msgstr "Statisk forside oppdaget, foreslått Facebook Objekt Type er 'website'."
+
+#: modules/aioseop_opengraph.php:598
+msgid "Scan Social Meta"
+msgstr "Skann sosial meta"
+
+#: modules/aioseop_opengraph.php:593
+msgid "Twitter Settings"
+msgstr "Twitterinstillinger"
+
+#: modules/aioseop_opengraph.php:577
+msgid "Facebook Settings"
+msgstr "Facebookinnstilinger"
+
+#: modules/aioseop_opengraph.php:567
+msgid "Image Settings"
+msgstr "Bildeinnstilinger"
+
+#: modules/aioseop_opengraph.php:530
+msgid "Social Settings"
+msgstr "Sosialinnstilinger"
+
+#: modules/aioseop_opengraph.php:474
+msgid "Associated Name"
+msgstr "Assosiert navn"
+
+#: modules/aioseop_opengraph.php:470
+msgid "Organization"
+msgstr "Organisasjon"
+
+#: modules/aioseop_opengraph.php:469
+msgid "Person"
+msgstr "Person"
+
+#: modules/aioseop_opengraph.php:466
+msgid "Person or Organization?"
+msgstr "Person eller organisasjon"
+
+#: modules/aioseop_opengraph.php:460 modules/aioseop_opengraph.php:572
+msgid "Social Profile Links"
+msgstr "Sosiale profillinker"
+
+#: modules/aioseop_opengraph.php:458
+msgid "Show Facebook Author on Articles"
+msgstr "Vis Facebookforfatter i artikler"
+
+#: modules/aioseop_opengraph.php:454
+msgid "Show Facebook Publisher on Articles"
+msgstr "Vis Facebookforlegger i Artikler"
+
+#: modules/aioseop_opengraph.php:448
+msgid "Article Tags"
+msgstr "Artikklmerker"
+
+#: modules/aioseop_opengraph.php:442
+msgid "Article Section"
+msgstr "Artikkelseksjon"
+
+#: modules/aioseop_opengraph.php:437
+msgid "Debug This Post"
+msgstr "Debug dette innlegget"
+
+#: modules/aioseop_opengraph.php:422
+msgid "Facebook Debug"
+msgstr "Facebook Debug"
+
+#: modules/aioseop_opengraph.php:392
+msgid "Enable Facebook Meta for"
+msgstr "Tillat Facebookmeta for"
+
+#: modules/aioseop_opengraph.php:387
+msgid "Use Post Tags In Article Tags"
+msgstr "Bruk innleggsmerker i artikkelmerker"
+
+#: modules/aioseop_opengraph.php:382
+msgid "Use Categories In Article Tags"
+msgstr "Bruk kategorier i artikkelmerker"
+
+#: modules/aioseop_opengraph.php:377
+msgid "Use Keywords In Article Tags"
+msgstr "Bruk nøkkelord i artikkelmerker"
+
+#: modules/aioseop_opengraph.php:375
+msgid "Automatically Generate Article Tags"
+msgstr "Generer artikkelmerker automatisk."
+
+#: modules/aioseop_opengraph.php:367
+msgid "Twitter Domain"
+msgstr "Twitterdomene"
+
+#: modules/aioseop_opengraph.php:365
+msgid "Show Twitter Author"
+msgstr "Vis Twitterforfatter"
+
+#: modules/aioseop_opengraph.php:361
+msgid "Twitter Site"
+msgstr "Twitterside"
+
+#: modules/aioseop_opengraph.php:352
+msgid "Twitter Card Type"
+msgstr "Twitter korttype"
+
+#: modules/aioseop_opengraph.php:346 modules/aioseop_opengraph.php:355
+msgid "Summary Large Image"
+msgstr "Oppsummert stort bilde"
+
+#: modules/aioseop_opengraph.php:345 modules/aioseop_opengraph.php:356
+msgid "Summary"
+msgstr "Oppsummering"
+
+#: modules/aioseop_opengraph.php:342
+msgid "Default Twitter Card"
+msgstr "Standard twitterkort"
+
+#: modules/aioseop_opengraph.php:330
+msgid "Specify Video Height"
+msgstr "Spesifiser vdeohøyde"
+
+#: modules/aioseop_opengraph.php:318
+msgid "Specify Video Width"
+msgstr "Spesifiser videovide"
+
+#: modules/aioseop_opengraph.php:314
+msgid "Custom Video"
+msgstr "Tilpasset video"
+
+#: modules/aioseop_opengraph.php:309
+msgid "Specify Image Height"
+msgstr "Spesifiser bildehøyde"
+
+#: modules/aioseop_opengraph.php:304
+msgid "Specify Image Width"
+msgstr "Spesifiser bildevidde"
+
+#: modules/aioseop_opengraph.php:300
+msgid "Custom Image"
+msgstr "Tilpasset bilde"
+
+#: modules/aioseop_opengraph.php:295
+msgid "Image"
+msgstr "Bilde"
+
+#: modules/aioseop_opengraph.php:289 modules/aioseop_opengraph.php:415
+msgid "Facebook Object Type"
+msgstr "Facebook Objekttype"
+
+#: modules/aioseop_opengraph.php:284
+msgid "Use Custom Field For Image"
+msgstr "Bruk tilpasset felt for bilde"
+
+#: modules/aioseop_opengraph.php:279
+msgid "Default Image Height"
+msgstr "Standard bildehøyde"
+
+#: modules/aioseop_opengraph.php:274
+msgid "Default Image Width"
+msgstr "Standard bildevidde"
+
+#: modules/aioseop_opengraph.php:269
+msgid "Default OG:Image"
+msgstr "Standard OG:Image"
+
+#: modules/aioseop_opengraph.php:265
+msgid "Use Default If No Image Found"
+msgstr "Bruk standard hvis ingen bilder blir funnet."
+
+#: modules/aioseop_opengraph.php:261
+msgid "First Available Image"
+msgstr "Første tilgjengelige bilde"
+
+#: modules/aioseop_opengraph.php:260
+msgid "Post Author Image"
+msgstr "Innlegg forfatterbilde"
+
+#: modules/aioseop_opengraph.php:259
+msgid "Image From Custom Field"
+msgstr "Bilde fra definert felt"
+
+#: modules/aioseop_opengraph.php:258
+msgid "First Image In Content"
+msgstr "Første bilde i innhold"
+
+#: modules/aioseop_opengraph.php:257
+msgid "First Attached Image"
+msgstr "Første bilde lagt til"
+
+#: modules/aioseop_opengraph.php:256
+msgid "Featured Image"
+msgstr "Aktuelt bilde"
+
+#: modules/aioseop_opengraph.php:255
+msgid "Default Image"
+msgstr "Standard bilde"
+
+#: modules/aioseop_opengraph.php:252
+msgid "Select OG:Image Source"
+msgstr "Velg OG:Image Source"
+
+#: modules/aioseop_opengraph.php:248
+msgid "Autogenerate OG Descriptions"
+msgstr "Autogenerer OG-beskrivelser"
+
+#: modules/aioseop_opengraph.php:242
+msgid "Home Article Tags"
+msgstr "Hjemmeartikkelmerker"
+
+#: modules/aioseop_opengraph.php:238
+msgid "Home Image"
+msgstr "Hjemmebilde"
+
+#: modules/aioseop_opengraph.php:226
+msgid "Home Description"
+msgstr "Hjemmebeskrivese"
+
+#: modules/aioseop_opengraph.php:214
+msgid "Home Title"
+msgstr "Hjemmetittel"
+
+#: modules/aioseop_opengraph.php:209
+msgid "Site Name"
+msgstr "Sidenavn"
+
+#: modules/aioseop_opengraph.php:207
+msgid "Run Shortcodes In Description"
+msgstr "Kjør kortkoder i beskrivelse"
+
+#: modules/aioseop_opengraph.php:206
+msgid "Run Shortcodes In Title"
+msgstr "Kjør kortkoder i tittel"
+
+#: modules/aioseop_opengraph.php:193
+msgid "Use AIOSEO Title and Description"
+msgstr "Bruk AIOSEO tittel og beskrivelse"
+
+#: modules/aioseop_opengraph.php:188
+msgid "Scan Header"
+msgstr "Skann sidetopp"
+
+#: modules/aioseop_opengraph.php:185
+msgid " characters. Open Graph allows up to a maximum of %s chars for the %s."
+msgstr "Karakterer. Åpen Kurve tillater et maksimum på %s diagram for %s."
+
+#: modules/aioseop_opengraph.php:130
+msgid "Add the name of the person or organization who owns these profiles."
+msgstr "Legg til navnet på personen eller organisasjonen som eier disse profilene. "
+
+#: modules/aioseop_opengraph.php:129
+msgid "Add URLs for your website's social profiles here (Facebook, Twitter, Google+, Instagram, LinkedIn), one per line."
+msgstr "Legg til URLs for din nettsides sosiale profil her (Facebook, Twitter, Google+, Instagram, LinkedIn), en per linje."
+
+#: modules/aioseop_opengraph.php:128
+msgid "Are the social profile links for your website for a person or an organization?"
+msgstr "Er sosial profil linkene for din nettside for en person eller en organisasjon?"
+
+#: modules/aioseop_opengraph.php:127
+msgid "Allows your authors to be identified by their Facebook pages as content authors on the Opengraph meta for their articles."
+msgstr "Tillater dine forfattere å bli identifisert ved deres facebooksider som innholdsforfattere på Åpen Kurve meta for deres artikler."
+
+#: modules/aioseop_opengraph.php:126
+msgid "Link articles to the Facebook page associated with your website."
+msgstr "Link artikler til Facebooksiden assosiert med nettsiden din."
+
+#: modules/aioseop_opengraph.php:125
+msgid "This Open Graph meta allows you to add a list of keywords that best describe this content."
+msgstr "Denne Åpen Kurve metaen tillater at du legger til en liste med nøkkelord som best beskriver innholdet."
+
+#: modules/aioseop_opengraph.php:124
+msgid "This Open Graph meta allows you to add a general section name that best describes this content."
+msgstr "Denne Åpen Kurve metaen tillater at du legger til et generellt seksjonsnavn som best beskriver dette innholdet."
+
+#: modules/aioseop_opengraph.php:123
+msgid "Press this button to have Facebook re-fetch and debug this page."
+msgstr "Trykk på denne knappen for å få Facebook til å gjenhente og debugge denne siden."
+
+#: modules/aioseop_opengraph.php:122
+msgid "Select the Open Graph type that best describes the content of this Page or Post."
+msgstr "Velg den Åpen Kurve-typen som best beskriver innholdet av denne siden eller innlegget."
+
+#: modules/aioseop_opengraph.php:121
+msgid "This is the Open Graph description of this Page or Post."
+msgstr "Dette er Åpen Kurve beskrivelsen av denne siden eller innlegget."
+
+#: modules/aioseop_opengraph.php:120
+msgid "This is the Open Graph title of this Page or Post."
+msgstr "Dette er Åpen Kurve-tittelen for denne siden eller innlegget."
+
+#: modules/aioseop_opengraph.php:119
+msgid "Select which Post Types you want to use All in One SEO Pack to set Open Graph meta values for."
+msgstr "Velg hvilke innleggstyper du ønsker å bruke i alt-iett One SEO Pack for å sette metaverdier for Åpen Kurve."
+
+#: modules/aioseop_opengraph.php:118
+msgid "Use post tags in generated article tags."
+msgstr "Bruk innleggsmerker for genererte artikkelmerker."
+
+#: modules/aioseop_opengraph.php:117
+msgid "Use catergories in generated article tags."
+msgstr "Bruk kategorier i genererte artikkelmerker."
+
+#: modules/aioseop_opengraph.php:116
+msgid "Use keywords in generated article tags."
+msgstr "Bruk nøkkelord i genererte artikkelmerker"
+
+#: modules/aioseop_opengraph.php:115
+msgid "Automatically generate article tags for Facebook type article when not provided."
+msgstr "Automatisk generer artikkelmerker for Facebook type artikkel når det ikke tilbys."
+
+#: modules/aioseop_opengraph.php:113
+msgid "Enter the name of your website here."
+msgstr "Skriv inn navnet på din nettside her."
+
+#: modules/aioseop_opengraph.php:112
+msgid "Allows your authors to be identified by their Twitter usernames as content creators on the Twitter cards for their posts."
+msgstr "Tillater dine forfattere å bli identifisert av deres Twitternavn som innholdsskapere på Twitterkort for deres innlegg"
+
+#: modules/aioseop_opengraph.php:111
+msgid "Enter the Twitter username associated with your website here."
+msgstr "Skriv inn Twitternavn som assosieres med din nettside her."
+
+#: modules/aioseop_opengraph.php:109 modules/aioseop_opengraph.php:110
+msgid "Select the default type of Twitter card to display."
+msgstr "Velg standard Twitter kort å vise."
+
+#: modules/aioseop_opengraph.php:108
+msgid "Enter the height for your Open Graph video in pixels (i.e. 600)."
+msgstr "Skriv inn høyden for din Åpen Kurve video i piksler (i.e 600)"
+
+#: modules/aioseop_opengraph.php:107
+msgid "Enter the width for your Open Graph video in pixels (i.e. 600)."
+msgstr "Skriv inn bredden for din Open Graph-video i piksler (i.e 600)"
+
+#: modules/aioseop_opengraph.php:106
+msgid "This option lets you specify a link to the Open Graph video used on this Page or Post."
+msgstr "Dette alternativet lar deg spesifisere en link til Åpen Kurve videoen som brukes på denne siden eller innlegget."
+
+#: modules/aioseop_opengraph.php:105
+msgid "Enter the height for your Open Graph image in pixels (i.e. 600)."
+msgstr "Skriv inn høyden for ditt Åpen Kurve bilde i piksler (i.e 600)."
+
+#: modules/aioseop_opengraph.php:104
+msgid "Enter the width for your Open Graph image in pixels (i.e. 600)."
+msgstr "Skriv inn bredden for ditt Open Graph-bilde i piksler (i.e 600)."
+
+#: modules/aioseop_opengraph.php:103
+msgid "This option lets you upload an image to use as the Open Graph image for this Page or Post."
+msgstr "Dette alternativet lar deg laste opp et bilde som brukes som Åpen Kurve bilde for denne siden eller innlegget."
+
+#: modules/aioseop_opengraph.php:102
+msgid "This option lets you select the Open Graph image that will be used for this Page or Post, overriding the default settings."
+msgstr "Dette alternativet lar deg velge Åpen Kurve bildet som kommer til å bi brukt for denne siden eller innleg, og som overstyrer standardinnstillingene."
+
+#: modules/aioseop_opengraph.php:101
+msgid "Set the Open Graph type for your website as either a blog or a website."
+msgstr "Sett Åpen Kurve typen for din nettside som enten en blogg eller nettside."
+
+#: modules/aioseop_opengraph.php:100
+msgid "Enter the name of a custom field (or multiple field names separated by commas) to use that field to specify the Open Graph image on Pages or Posts."
+msgstr "Skriv inn navnet på et tilpasset område (eller flere områdenavn skilt ved komma) for å bruke det feltet til å spesifisere Åpen Kurve bildet på sider eller innlegg."
+
+#: modules/aioseop_opengraph.php:99
+msgid "This option lets you set a default height for your images, where unspecified."
+msgstr "Dette alternativet lar deg sette en standardhøyde for dine bilder, der det ikke er spesifisert."
+
+#: modules/aioseop_opengraph.php:98
+msgid "This option lets you set a default width for your images, where unspecified."
+msgstr "Dette alternativet lar deg sette en standardvidde for dine bilder, der det ikke er spesifisert."
+
+#: modules/aioseop_opengraph.php:97
+msgid "This option sets a default image that can be used for the Open Graph image. You can upload an image, select an image from your Media Library or paste the URL of an image here."
+msgstr "Dette alternativer setter et standardbilde som kan brukes for Åpen Kurve bildet. Du kan laste opp et bilde, velge et blde fra ditt mediebibliotek eller lime inn URLen til et bilde her."
+
+#: modules/aioseop_opengraph.php:96
+msgid "This option lets you fall back to the default image if no image could be found above."
+msgstr "Dette alternativet lar deg sette tilbake til standardbildet, hvis ikke noe bilde blir funnet ovenfor."
+
+#: modules/aioseop_opengraph.php:95
+msgid "This option lets you choose which image will be displayed by default for the Open Graph image. You may override this on individual posts."
+msgstr "Dette alternativet lar de velge hvilket bilde som vil vises som standard for Åpen Graf bildet. Du kan overstyre dette på individuelle innlegg."
+
+#: modules/aioseop_opengraph.php:94
+msgid "Check this and your Open Graph descriptions will be auto-generated from your content."
+msgstr "Kryss av her og din Åpen Kurves beskrivelse vil bli autogenerert fra ditt innhold."
+
+#: modules/aioseop_opengraph.php:93
+msgid "The Home Tag allows you to add a list of keywords that best describe your home page content."
+msgstr "Hjemmemerket lar deg legge til en liste med nøkkelord som best beskriver din hjemmesides innhod."
+
+#: modules/aioseop_opengraph.php:92
+msgid "The Home Image is the Open Graph image for your home page."
+msgstr "Hjemmebildet er Åpen Kurve-bildet for din hjemmeside."
+
+#: modules/aioseop_opengraph.php:91
+msgid "The Home Description is the Open Graph description for your home page."
+msgstr "Hjemmebeskrivelsen er Åpen Kurve-beskrivelsen for din hjemmeside."
+
+#: modules/aioseop_opengraph.php:90
+msgid "The Home Title is the Open Graph title for your home page."
+msgstr "Hjemmetittelen er Åpen Kurve-tittelen for din hjemmeside"
+
+#: modules/aioseop_opengraph.php:89
+msgid "The Site Name is the name that is used to identify your website."
+msgstr "Dette sidenavnet er navnet som brukes til å identifisere din nettside."
+
+#: modules/aioseop_opengraph.php:88
+msgid "Run shortcodes that appear in social description meta tags."
+msgstr "Kjør kortkoder som vises i sosial beskrivelses metamerker."
+
+#: modules/aioseop_opengraph.php:87
+msgid "Run shortcodes that appear in social title meta tags."
+msgstr "Kjør kortkoder som vises i sosial tittel metamerker."
+
+#: modules/aioseop_opengraph.php:84
+msgid "Checking this box will use the Home Title and Home Description set in All in One SEO Pack, General Settings as the Open Graph title and description for your home page."
+msgstr "Hvis du krysser av denne boksen, brukes hjemmetittelen og hjemmebeskrivelsen bestemt i alt-i-ett One SEO Pack generelle innstillinger som den Åpne Kurvetittel- og beskrivelsen for din hjemmeside."
+
+#: modules/aioseop_opengraph.php:72 modules/aioseop_opengraph.php:79
+msgid "Website"
+msgstr "Nettsted"
+
+#: modules/aioseop_opengraph.php:71 modules/aioseop_opengraph.php:78
+msgid "Blog"
+msgstr "Blogg"
+
+#: modules/aioseop_opengraph.php:70 modules/aioseop_opengraph.php:80
+msgid "Article"
+msgstr "Artikkel"
+
+#: modules/aioseop_opengraph.php:67
+msgid "Episode"
+msgstr "Episode"
+
+#: modules/aioseop_opengraph.php:66
+msgid "TV Show"
+msgstr "Tv-serie"
+
+#: modules/aioseop_opengraph.php:65
+msgid "Song"
+msgstr "Sang"
+
+#: modules/aioseop_opengraph.php:64
+msgid "Product"
+msgstr "Produkt"
+
+#: modules/aioseop_opengraph.php:63
+msgid "Movie"
+msgstr "Film"
+
+#: modules/aioseop_opengraph.php:62
+msgid "Game"
+msgstr "Spill"
+
+#: modules/aioseop_opengraph.php:61
+msgid "Food"
+msgstr "Mat"
+
+#: modules/aioseop_opengraph.php:60
+msgid "Drink"
+msgstr "Drikk"
+
+#: modules/aioseop_opengraph.php:59
+msgid "Book"
+msgstr "Bok"
+
+#: modules/aioseop_opengraph.php:58
+msgid "Album"
+msgstr "Album"
+
+#: modules/aioseop_opengraph.php:55
+msgid "State Province"
+msgstr "Provins"
+
+#: modules/aioseop_opengraph.php:54
+msgid "Landmark"
+msgstr "Landemerke"
+
+#: modules/aioseop_opengraph.php:53
+msgid "Country"
+msgstr "Land"
+
+#: modules/aioseop_opengraph.php:52
+msgid "City"
+msgstr "By"
+
+#: modules/aioseop_opengraph.php:49
+msgid "Public Figure"
+msgstr "Offentlig person"
+
+#: modules/aioseop_opengraph.php:48
+msgid "Profile"
+msgstr "Profil"
+
+#: modules/aioseop_opengraph.php:47
+msgid "Politician"
+msgstr "Politiker"
+
+#: modules/aioseop_opengraph.php:46
+msgid "Musician"
+msgstr "Musiker"
+
+#: modules/aioseop_opengraph.php:45
+msgid "Director"
+msgstr "Regissør"
+
+#: modules/aioseop_opengraph.php:44
+msgid "Author"
+msgstr "Forfatter"
+
+#: modules/aioseop_opengraph.php:43
+msgid "Athlete"
+msgstr "Atlet"
+
+#: modules/aioseop_opengraph.php:42
+msgid "Actor"
+msgstr "Skuespiller"
+
+#: modules/aioseop_opengraph.php:39
+msgid "University"
+msgstr "Universitet"
+
+#: modules/aioseop_opengraph.php:38
+msgid "School"
+msgstr "Skole"
+
+#: modules/aioseop_opengraph.php:37
+msgid "Non Profit"
+msgstr "Veldedig"
+
+#: modules/aioseop_opengraph.php:36
+msgid "Government"
+msgstr "Regjering"
+
+#: modules/aioseop_opengraph.php:35
+msgid "Band"
+msgstr "Band"
+
+#: modules/aioseop_opengraph.php:32
+msgid "Sports Team"
+msgstr "Sportslag"
+
+#: modules/aioseop_opengraph.php:31
+msgid "Sports League"
+msgstr "Sportsliga"
+
+#: modules/aioseop_opengraph.php:30
+msgid "Cause"
+msgstr "Årsak"
+
+#: modules/aioseop_opengraph.php:27
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: modules/aioseop_opengraph.php:26
+msgid "Hotel"
+msgstr "Hotell"
+
+#: modules/aioseop_opengraph.php:25
+msgid "Cafe"
+msgstr "Kafe"
+
+#: modules/aioseop_opengraph.php:24
+msgid "Company"
+msgstr "Firma"
+
+#: modules/aioseop_opengraph.php:23
+msgid "Bar"
+msgstr "Bar"
+
+#: modules/aioseop_opengraph.php:20
+msgid "Sport"
+msgstr "Sport"
+
+#: modules/aioseop_opengraph.php:19
+msgid "Activity"
+msgstr "Aktivitet"
+
+#: admin/aioseop_module_class.php:2237
+msgid "Update Options"
+msgstr "Alternativer for oppdatering"
+
+#: admin/aioseop_module_class.php:2172
+msgid "All in One SEO Options Updated."
+msgstr "Alt-i-ett SEO Alternativer Oppdatert."
+
+#: admin/aioseop_module_class.php:2163
+msgid "Options Reset."
+msgstr "Alternativer resatt."
+
+#: admin/aioseop_module_class.php:2160 modules/aioseop_sitemap.php:844
+msgid "Security Check - If you receive this in error, log out and back in to WordPress"
+msgstr "Sikkerhetssjekk - Hvis du blir opplyst om denne feilen, logg ut og tilbake til WordPress"
+
+#: admin/aioseop_module_class.php:1964
+msgid "Click for Help!"
+msgstr "Klikk for hjelp!"
+
+#: admin/aioseop_module_class.php:1931
+msgid " characters. Most search engines use a maximum of %s chars for the %s."
+msgstr "Karakterer. De fleste søkemotorer bruker et maksimum på %s karakterer for %s."
+
+#: admin/aioseop_module_class.php:1423
+msgid "Click here for documentation on this setting"
+msgstr "Klikk her for dokumentasjon på denne innstillingen"
+
+#: modules/aioseop_importer_exporter.php:513
+msgid "Settings export file for All in One SEO Pack"
+msgstr "Innstillinger for eksport fil for alt-i-ett SEO Pack"
+
+#: modules/aioseop_importer_exporter.php:465
+msgid "<b>Warning:</b> This following post could not be found: <b>\"%s\"</b>"
+msgstr "<b>Advarsel:</b> Dette innlegget ble ikke funnet: <b>\"%s\"</b>"
+
+#: modules/aioseop_importer_exporter.php:416
+msgid "<b>Warning:</b> Line not matched: <b>\"%s\"</b>, On Line: <b>%s</b>"
+msgstr "<b>Advarsel:</b> Linje samsvarer ikke med: <b>\"%s\"</b>, On Line: <b>%s</b>"
+
+#: modules/aioseop_importer_exporter.php:155
+msgid ""
+"You may change this by activating or deactivating\n"
+"\t\t\t\t\t\tmodules in the Feature Manager."
+msgstr "Du kan endre dette med å aktivere eller deaktivere moduler i Funksjonsinnstillinger."
+
+#: modules/aioseop_importer_exporter.php:148
+msgid "There are no other modules currently loaded!"
+msgstr "Ingen andre moduler er lastet inn nå!"
+
+#: modules/aioseop_importer_exporter.php:115
+msgid "Export"
+msgstr "Eksport"
+
+#: modules/aioseop_importer_exporter.php:64
+msgid ""
+"Note: If General Settings is checked, the\n"
+"\t\t\t\t\t\t\t\tGeneral Settings, the Feature Manager settings,\n"
+"\t\t\t\t\t\t\t\tand the following currently active modules will\n"
+"\t\t\t\t\t\t\t\thave their settings data exported:"
+msgstr "NB: Hvis generelle instillinger er krysset av, de generelle innstillingene, funksjonsinnstillingene, og de følgende aktive modulene vil få deres innstillingsdata eksportert:"
+
+#: modules/aioseop_importer_exporter.php:51
+msgid "Export Post Types:"
+msgstr "Eksporter innleggstyper"
+
+#: modules/aioseop_importer_exporter.php:43
+msgid "Export Settings"
+msgstr "Eksportinnstillinger"
+
+#: modules/aioseop_importer_exporter.php:37
+#: modules/aioseop_importer_exporter.php:105
+msgid "Import"
+msgstr "Importer"
+
+#: modules/aioseop_importer_exporter.php:29
+msgid "Select which Post Types you want to export your All in One SEO Pack meta data for.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Velg hvilken innleggstype du ønsker å eksportere din alt-i-ett SEO Pack metadata for.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+
+#: modules/aioseop_importer_exporter.php:25
+msgid "You may choose to export settings from active modules, and content from post data.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Du kan velge å eksportere innstillinger fra aktive moduler, og innhold fra innleggsdata.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+
+#: modules/aioseop_importer_exporter.php:21
+msgid "Select a valid All in One SEO Pack ini file and click 'Import' to import options from a previous state or install of All in One SEO Pack.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Velg en gyldig alt-i-ett SEO Pack ini-file og trykk 'importer' for å importere alternativer fra et tidligere stadie eller installering av alt-i-ett SEO Pack.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+
+#: inc/aioseop_functions.php:908
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/aioseop_functions.php:905
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/aioseop_functions.php:899
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/aioseop_functions.php:568
+msgid "Please refer to the document for each tool for help in using these to debug your social meta."
+msgstr "Venligst henvis til dokumentet for hvert hjelpeverktøy når du bruker disse for å debugge din sosiale meta."
+
+#: inc/aioseop_functions.php:557
+msgid "You should avoid duplicate social meta tags. You can use these free tools from Facebook, Google and Twitter to validate your social meta and check for errors:"
+msgstr "Du burde unngå produserte sosiale metamerker. Du kan bruke disse gratis verktøyene fra Facebook, Google og Twitter for å validere din sosiale meta og lete etter feil."
+
+#: inc/aioseop_functions.php:556
+msgid "You may prefer to use the social meta tags that are being output by the other plugin(s) or theme. If so, then you should deactivate this Social Meta feature in All in One SEO Pack Feature Manager."
+msgstr "Muligens foretrekker du å bruke sosiale metatagger som blir produsert av den andre pluginnen eller temaet. Hvis det er tilfellet så burde du deaktivere denne sosiale metafunksjonen i alt-i-ett One SEO Pack funksjonsinnstillinger."
+
+#: inc/aioseop_functions.php:555
+msgid "All in One SEO Pack has detected that a plugin(s) or theme is also outputting social meta tags on your site. You can view this social meta in the source code of your site (check your browser help for instructions on how to view source code)."
+msgstr "Alt-i-ett One SEO Pack har oppdaget at en plugin eller et tema også legger til sosiale metatagger på din side. Du kan se denne sosiale metaen i kildekoden til din side (sjekk din nettleserstøtte for instruksjoner til hvordan du kan se kildekode."
+
+#: inc/aioseop_functions.php:554
+msgid "What Does This Mean?"
+msgstr "Wha betyr dette?"
+
+#: inc/aioseop_functions.php:551
+msgid "No duplicate meta tags found."
+msgstr "Ingen kopierte metamerker funnet"
+
+#: inc/aioseop_functions.php:542
+msgid "Duplicate %s Meta"
+msgstr "Kopiere %s meta"
+
+#: inc/aioseop_functions.php:478
+msgid "Row %s not found; no rows were deleted."
+msgstr "Rad %s ikke funnet ingen rader ble slettet."
+
+#: inc/aioseop_functions.php:378
+msgid "Unauthorized access; try reloading the page."
+msgstr "Uautorisert tilgang; prøv å laste inn siden på ny."
+
+#: inc/aioseop_functions.php:355 inc/aioseop_functions.php:707
+#: modules/aioseop_performance.php:205 modules/aioseop_performance.php:210
+#: modules/aioseop_performance.php:215 modules/aioseop_performance.php:224
+msgid "No"
+msgstr "Nei"
+
+#: inc/aioseop_functions.php:250
+msgid "Insert time"
+msgstr "Sett inn tid"
+
+#: inc/aioseop_functions.php:249
+msgid "Revisions"
+msgstr "Revisjoner"
+
+#: inc/aioseop_functions.php:248
+msgid "Slug may not be empty!"
+msgstr "Snegle kan ikke være tom!"
+
+#: inc/aioseop_functions.php:247
+msgid "Please wait..."
+msgstr "Venligst vent..."
+
+#: inc/aioseop_functions.php:245
+msgid "Cancel"
+msgstr "Kanseller"
+
+#: inc/aioseop_functions.php:244
+msgid "Save"
+msgstr "Lagre"
+
+#: inc/aioseop_functions.php:243
+msgid "Post"
+msgstr "Innlegg"
+
+#: inc/aioseop_functions.php:242 inc/aioseop_functions.php:359
+#: inc/aioseop_functions.php:711
+msgid "Edit"
+msgstr "Rediger"
+
+#: inc/aioseop_functions.php:172
+msgid "SEO Keywords"
+msgstr "Seo Nøkkelord"
+
+#: inc/aioseop_functions.php:170
+msgid "SEO Description"
+msgstr "SEO beskrivelse"
+
+#: inc/aioseop_functions.php:169
+msgid "SEO Title"
+msgstr "SEO tittel"
+
+#: modules/aioseop_file_editor.php:108
+msgid "Update .htaccess"
+msgstr "Oppdater .htaccess"
+
+#: modules/aioseop_file_editor.php:102
+msgid "Update robots.txt"
+msgstr "Oppdater robots.txt"
+
+#: modules/aioseop_file_editor.php:65
+msgid "Edit robots.txt"
+msgstr "Endre robots.txt"
+
+#: modules/aioseop_file_editor.php:60
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: modules/aioseop_file_editor.php:59
+msgid "robots.txt"
+msgstr "robots.txt"
+
+#: modules/aioseop_file_editor.php:43 modules/aioseop_file_editor.php:70
+msgid "Edit .htaccess"
+msgstr "Edit .htaccess"
+
+#: modules/aioseop_file_editor.php:34
+msgid "Edit Robots.txt"
+msgstr "Endre Robots.txt"
+
+#: modules/aioseop_file_editor.php:30
+msgid ".htaccess editor"
+msgstr ".htaccess instillinger"
+
+#: modules/aioseop_file_editor.php:29 modules/aioseop_robots.php:21
+msgid "Robots.txt editor"
+msgstr "Robots.txt instillinger"
+
+#: modules/aioseop_feature_manager.php:149
+msgid "Reset Features"
+msgstr "Resett egenskaper"
+
+#: modules/aioseop_feature_manager.php:147
+msgid "Update Features"
+msgstr "Oppdater egenskaper"
+
+#: inc/commonstrings.php:21 modules/aioseop_feature_manager.php:67
+#: modules/aioseop_feature_manager.php:74
+msgid "Video Sitemap"
+msgstr "Video Sidekart"
+
+#: modules/aioseop_feature_manager.php:62
+msgid "Coming Soon..."
+msgstr "Kommer snart..."
+
+#: modules/aioseop_feature_manager.php:46
+msgid "Exports and imports your All in One SEO Pack plugin settings."
+msgstr "Eksporterer og importerer din alt-i-ett One SEO Pack plugininstilinger."
+
+#: modules/aioseop_feature_manager.php:45
+#: modules/aioseop_importer_exporter.php:16
+msgid "Importer & Exporter"
+msgstr "Importer & Eksporter"
+
+#: modules/aioseop_feature_manager.php:54
+msgid "Optimize performance related to SEO and check your system status."
+msgstr "Optimer prestasjon relatert til SEO og sjekk din systemstatus."
+
+#: modules/aioseop_feature_manager.php:53 modules/aioseop_performance.php:15
+msgid "Performance"
+msgstr "Prestasjon"
+
+#: modules/aioseop_feature_manager.php:50
+msgid "Stop badly behaving bots from slowing down your website."
+msgstr "Hindre dårlige bots fra å gjøre din nettside tregere."
+
+#: modules/aioseop_feature_manager.php:42
+msgid "Edit your robots.txt file and your .htaccess file to fine-tune your site."
+msgstr "Endre din robots.txt-fil og din .htaccess-fil for å fininstille din side."
+
+#: modules/aioseop_feature_manager.php:41 modules/aioseop_file_editor.php:19
+msgid "File Editor"
+msgstr "Filinstillinger"
+
+#: modules/aioseop_feature_manager.php:38
+msgid "Generate and validate your robots.txt file to guide search engines through your site."
+msgstr "Generer og valider dine robots.txt-filer for å lede søkemotorer gjennom din side."
+
+#: modules/aioseop_feature_manager.php:37 modules/aioseop_robots.php:12
+#: modules/aioseop_robots.php:175
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: modules/aioseop_feature_manager.php:34
+msgid "Activate this feature to add Social Meta data to your site to deliver closer integration between your website/blog and Facebook, Twitter, and Google+."
+msgstr "Aktiver denne funksjonen for å legge til Sosial metadata til din side for å levere tettere integrering mellom din nettside/blogg og Facebook, Twitter og Google+."
+
+#: modules/aioseop_feature_manager.php:33 modules/aioseop_opengraph.php:14
+msgid "Social Meta"
+msgstr "Sosial meta"
+
+#: modules/aioseop_feature_manager.php:30
+msgid "Create and manage your XML Sitemaps using this feature and submit your XML Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Lag og styr dine XML sidekart ved å bruke denne funksjonen og lever ditt XML sidekart til Google, Bing/Yahoo og Ask.com."
+
+#: modules/aioseop_feature_manager.php:29
+msgid "XML Sitemaps"
+msgstr "XML sidekart"
+
+#: modules/aioseop_feature_manager.php:23
+msgid "Feature Manager"
+msgstr "Funksjonsinnstillinger"
+
+#: aioseop_class.php:4453
+msgid "Main Settings"
+msgstr "Hovedinnstillinger"
+
+#: admin/aioseop_module_class.php:1742 admin/aioseop_module_class.php:1996
+#: admin/aioseop_module_class.php:2273 aioseop_class.php:4747
+#: aioseop_class.php:4765
+msgid "Help"
+msgstr "Hjelp"
+
+#: aioseop_class.php:4717
+msgid "Version"
+msgstr "Versjon"
+
+#: aioseop_class.php:4717
+msgid "Support"
+msgstr "Støtte"
+
+#: aioseop_class.php:4702
+msgid "Join Our Mailing List"
+msgstr "Bli med i vår mailliste"
+
+#: aioseop_class.php:4659
+msgid "Thank you for your donation, it helps keep this plugin free and actively developed!"
+msgstr "Takk for din donasjon, den bidrar til å holde denne plugin gratis og aktivt utviklende."
+
+#: aioseop_class.php:4658
+msgid "Thank you!"
+msgstr "Takk!"
+
+#: aioseop_class.php:4620
+msgid "All in One SEO"
+msgstr "alt-i-ett SEO"
+
+#: aioseop_class.php:4493
+msgid "Upgrade To Pro"
+msgstr "Oppgrader til PRO"
+
+#: aioseop_class.php:4513
+msgid "Edit SEO"
+msgstr "Rediger SEO"
+
+#: aioseop_class.php:4486
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/deprecated.php:173 inc/deprecated.php:220 inc/deprecated.php:261
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: inc/deprecated.php:145
+msgid "Connect With Google Analytics"
+msgstr "Koble til med Google Analytikere"
+
+#: inc/deprecated.php:138
+msgid "Remove Stored Credentials"
+msgstr "Fjern lagrede attester"
+
+#: inc/deprecated.php:137
+msgid "Disconnect From Google Analytics"
+msgstr "Koble fra Googleanalytikere"
+
+#: aioseop_class.php:3743
+msgid "Debug Warning: All in One SEO Pack meta data was included again from %s filter. Called %s times!"
+msgstr "Debugadvarsel: Alt-i-ett SEO Pack metadata ble inkludert igjen fra %s filter. Kalt %s ganger!"
+
+#: admin/display/general-metaboxes.php:159
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Er du nybegynner? les nybegynnermanualen"
+
+#: admin/display/general-metaboxes.php:155
+msgid "Watch video tutorials"
+msgstr "Se videoopplæring"
+
+#: admin/display/general-metaboxes.php:151
+msgid "View the Changelog"
+msgstr "Se Changelog"
+
+#: admin/display/general-metaboxes.php:146
+msgid "All in One SEO Pro Plugin Changelog"
+msgstr "Alt-i-ett SEO Pro Plugin Changelog"
+
+#: admin/display/general-metaboxes.php:143
+msgid "Access our Premium Support Forums"
+msgstr "Få tilgang til våre Premium Støtteforum."
+
+#: admin/display/general-metaboxes.php:142
+msgid "All in One SEO Pro Plugin Support Forum"
+msgstr "Alt-i-ett One SEO Pro Plugin Støtteforum"
+
+#: admin/display/general-metaboxes.php:138
+msgid "Read the All in One SEO Pack user guide"
+msgstr "Les alt-i-ett SEO Pack brukermanual."
+
+#: admin/display/general-metaboxes.php:122
+msgid "Sign up today and receive a free copy of the e-book 5 SEO Tips for WordPress ($39 value)."
+msgstr "Bli med i dag og motta en gratis kopi av eboken 5 SEO Tips for Wordpress ($39-verdi)."
+
+#: admin/display/general-metaboxes.php:120
+msgid "Join our mailing list for tips, tricks, and WordPress secrets."
+msgstr "Bli med i vår mailliste for tips, triks og WordPress-hemmeligheter."
+
+#: admin/display/general-metaboxes.php:83
+msgid "Follow us on Twitter"
+msgstr "Følg oss på Twitter"
+
+#: admin/display/general-metaboxes.php:80
+msgid "Follow us on Facebook"
+msgstr "Følg oss på Facebook"
+
+#: admin/display/general-metaboxes.php:77
+msgid "My Amazon Wish List"
+msgstr "Min Amazon ønskeliste"
+
+#: admin/display/general-metaboxes.php:73
+msgid "Donate with Paypal"
+msgstr "Doner med Paypal"
+
+#: admin/display/general-metaboxes.php:70 all_in_one_seo_pack.php:284
+msgid "Donate"
+msgstr "Doner"
+
+#: admin/display/general-metaboxes.php:44 aioseop_class.php:959
+msgid "UPGRADE TO PRO VERSION"
+msgstr "OPPGRADER TIL PRO VERSJON"
+
+#: admin/display/general-metaboxes.php:44
+msgid "Pro Version"
+msgstr "Pro versjon"
+
+#: admin/display/general-metaboxes.php:39
+msgid "Reset Dismissed Notices"
+msgstr "Resett forkastede beskjeder"
+
+#: admin/display/general-metaboxes.php:28
+msgid "by %s of %s."
+msgstr "fra %s av %s."
+
+#: aioseop_class.php:3389
+msgid "noydir"
+msgstr "noydir"
+
+#: aioseop_class.php:3388
+msgid "ydir"
+msgstr "ydir"
+
+#: aioseop_class.php:3387
+msgid "Default - noydir"
+msgstr "Standard - noydir"
+
+#: aioseop_class.php:3381
+msgid "noodp"
+msgstr "noodp"
+
+#: aioseop_class.php:3380
+msgid "odp"
+msgstr "odp"
+
+#: aioseop_class.php:3379
+msgid "Default - noodp"
+msgstr "Standard - noodp"
+
+#: aioseop_class.php:3373
+msgid "nofollow"
+msgstr "nofollow"
+
+#: aioseop_class.php:3372
+msgid "follow"
+msgstr "følge"
+
+#: aioseop_class.php:3371
+msgid "Default - nofollow"
+msgstr "standard - nofollow"
+
+#: aioseop_class.php:3365
+msgid "noindex"
+msgstr "noindex"
+
+#: aioseop_class.php:3364
+msgid "index"
+msgstr "indeks"
+
+#: aioseop_class.php:3363
+msgid "Default - noindex"
+msgstr "standard - noindex"
+
+#: aioseop_class.php:3281
+msgid "Reset ALL Settings to Defaults"
+msgstr "Resett alle instillinger til standard"
+
+#: aioseop_class.php:3277
+msgid "Reset General Settings to Defaults"
+msgstr "Resett generelle instillinger til standard."
+
+#: aioseop_class.php:3100
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! New since 2.2: Control who accesses your site with the new Robots.txt Editor and File Editor modules!  Enable them from the Feature Manager.  Remember to review your settings, we have added some new ones!"
+msgstr "Takk for at du kjører den siste og beste alt-i-ett One SEO Pack noensinne! Nytt siden 2.2: Kontroller hvem som har tilgang til din side, med dee nye Robots.txt-redigering- og filredigeringsmodulene! Tillat dem fra funksjonsbehandleren. Husk å se gjennom dine instillinger, vi har lagt til noen nye!"
+
+#: aioseop_class.php:3081 aioseop_class.php:3099
+msgid "Review Your Settings"
+msgstr "Se gjennom instillingene dine."
+
+#: aioseop_class.php:3092
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Takk for at du kjører den siste og beste alt-i-ett One SEO Pack noensinne! Venligst se gjennom instillingene dine, ettersom vi alltid legger til nye funksjoner for deg!"
+
+#: aioseop_class.php:3073 aioseop_class.php:3091
+msgid "Welcome to Version %s!"
+msgstr "Velkommen til versjon %s!"
+
+#: aioseop_class.php:3190
+msgid "%%tax_%s%% - This post's associated %s taxonomy title"
+msgstr "%%tax_%s%% - Dette innleggets assosierte %s taksonomitittel."
+
+#: aioseop_class.php:3186
+msgid "%post_title% - The original title of the post."
+msgstr "%post_title% - innleggets orginaltittel."
+
+#: aioseop_class.php:3172
+msgid "Title Format:"
+msgstr "Titteformat:"
+
+#: aioseop_class.php:3164
+msgid "Everywhere Else"
+msgstr "Andre steder"
+
+#: aioseop_class.php:3164
+msgid "Front Page"
+msgstr "Forside"
+
+#: aioseop_class.php:1135
+msgid "Advanced Settings"
+msgstr "Avanserte innstillinger"
+
+#: aioseop_class.php:1114
+msgid "Noindex Settings"
+msgstr "Noindexinnstillinger"
+
+#: aioseop_class.php:1087
+msgid "Google Settings"
+msgstr "Googleinnstillinger"
+
+#: aioseop_class.php:1082
+msgid "Webmaster Verification"
+msgstr "Webmaster verifisering"
+
+#: aioseop_class.php:1077
+msgid "Custom Post Type Settings"
+msgstr "Tillpassede innleggstypeinnstillinger"
+
+#: aioseop_class.php:1056
+msgid "Title Settings"
+msgstr "Tittelinnstillinger"
+
+#: aioseop_class.php:1153
+msgid "Keyword Settings"
+msgstr "Nøkkelordinnstllinger"
+
+#: aioseop_class.php:1051 modules/aioseop_opengraph.php:562
+msgid "Home Page Settings"
+msgstr "Hjemmesideinnstillinger"
+
+#: aioseop_class.php:1030
+msgid "Disable Google Analytics"
+msgstr "Deaktiver Google Analytikere"
+
+#: aioseop_class.php:1028
+msgid "Disable on this page/post"
+msgstr "Deaktiver på denne siden / innlegget"
+
+#: aioseop_class.php:1027
+msgid "Exclude From Sitemap"
+msgstr "Ekskluder fra Sidekart"
+
+#: aioseop_class.php:1023
+msgid "Menu Label"
+msgstr "Menymerke"
+
+#: aioseop_class.php:1018
+msgid "Title Attribute"
+msgstr "Tittelattributt"
+
+#: aioseop_class.php:1016
+msgid "Robots Meta NOYDIR"
+msgstr "Roboter Meta NOYDIR"
+
+#: aioseop_class.php:1015
+msgid "Robots Meta NOODP"
+msgstr "Roboter Meta NOODP"
+
+#: aioseop_class.php:1012
+msgid "Robots Meta NOFOLLOW"
+msgstr "Roboter Meta NOFOLLOW"
+
+#: aioseop_class.php:1008
+msgid "Robots Meta NOINDEX"
+msgstr "Roboter Meta NOINDEX"
+
+#: aioseop_class.php:1003
+msgid "Custom Canonical URL"
+msgstr "Tilpasset Kannonisk URL"
+
+#: aioseop_class.php:999
+msgid "Keywords (comma separated)"
+msgstr "Nøkkelord (separert med komma)"
+
+#: aioseop_class.php:991 modules/aioseop_opengraph.php:406
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: aioseop_class.php:985 modules/aioseop_opengraph.php:398
+msgid "Title"
+msgstr "Tittel"
+
+#: aioseop_class.php:968
+msgid "Preview Snippet"
+msgstr "Forhåndsvis snippet"
+
+#: aioseop_class.php:959
+msgid "Upgrade to All in One SEO Pack Pro Version"
+msgstr "Oppgrader til Alt-i-ett SEO Pack Pro Versjon"
+
+#: aioseop_class.php:905
+msgid "Log important events:"
+msgstr "Logg viktige hendelser:"
+
+#: aioseop_class.php:899
+msgid "Additional Blog Page Headers:"
+msgstr "Tillegs bloggsideoverskrifter:"
+
+#: aioseop_class.php:893
+msgid "Additional Front Page Headers:"
+msgstr "Tilleggs forsideoverskrifter:"
+
+#: aioseop_class.php:887
+msgid "Additional Page Headers:"
+msgstr "Tilleggs sideoverskrifter:"
+
+#: aioseop_class.php:881
+msgid "Additional Post Headers:"
+msgstr "Tilleggsinnleggsoverskrifter:"
+
+#: aioseop_class.php:876
+msgid "Exclude Pages:"
+msgstr "Ekskluder sider:"
+
+#: aioseop_class.php:868
+msgid "Unprotect Post Meta Fields:"
+msgstr "Ikke beskytt Innleggsmetafelt:"
+
+#: aioseop_class.php:864
+msgid "Use Schema.org Markup"
+msgstr "Bruk Schema.org Markup"
+
+#: aioseop_class.php:860
+msgid "Never Shorten Long Descriptions:"
+msgstr "Aldri forkort lange beskrivelser:"
+
+#: aioseop_class.php:856
+msgid "Remove Descriptions For Paginated Pages:"
+msgstr "Fjern beskrivelser for paginerte sider:"
+
+#: aioseop_class.php:851
+msgid "Run Shortcodes In Autogenerated Descriptions:"
+msgstr "Kjør kortkoder i autogenererte beskrivelser:"
+
+#: aioseop_class.php:847
+msgid "Autogenerate Descriptions:"
+msgstr "Autogenerer beskrivelser:"
+
+#: aioseop_class.php:843
+msgid "Avoid Using The Excerpt In Descriptions:"
+msgstr "Unngå å bruke utdrag i beskrivelser:"
+
+#: aioseop_class.php:839
+msgid "Exclude site from Yahoo! Directory:"
+msgstr "Ekskluder siden fra Yahoo! direktivet:"
+
+#: aioseop_class.php:835
+msgid "Exclude site from the Open Directory Project:"
+msgstr "Ekskluder side fra Åpen Direktiv Prosjektet"
+
+#: aioseop_class.php:831
+msgid "Use nofollow for paginated pages/posts:"
+msgstr "Bruk nofollow for paginerte sider/innlegg:"
+
+#: aioseop_class.php:827
+msgid "Use noindex for paginated pages/posts:"
+msgstr "Bruk noindex for paginerte sider/innlegg:"
+
+#: aioseop_class.php:821
+msgid "Use noindex for Taxonomy Archives:"
+msgstr "Bruk noindex for taksonomiarkiver:"
+
+#: aioseop_class.php:817
+msgid "Use noindex for the 404 page:"
+msgstr "Bruk noindex for 404 siden:"
+
+#: aioseop_class.php:813
+msgid "Use noindex for the Search page:"
+msgstr "Bruk noindex for søkesiden:"
+
+#: aioseop_class.php:809
+msgid "Use noindex for Tag Archives:"
+msgstr "Bruk noindex for merkearkiver"
+
+#: aioseop_class.php:805
+msgid "Use noindex for Author Archives:"
+msgstr "Bruk noindex for forfatterarkiver:"
+
+#: aioseop_class.php:801
+msgid "Use noindex for Date Archives:"
+msgstr "Bruk noindex for datoarkiver:"
+
+#: aioseop_class.php:797
+msgid "Use noindex for Categories:"
+msgstr "Bruk noindex for kategorier:"
+
+#: aioseop_class.php:792
+msgid "Dynamically Generate Keywords for Posts Page/Archives:"
+msgstr "Dynamisk generer nøkkelord for innlegg/arkiv:"
+
+#: aioseop_class.php:787
+msgid "Use Tags for META keywords:"
+msgstr "Bruk merker for META nøkkelord:"
+
+#: aioseop_class.php:782
+msgid "Use Categories for META keywords:"
+msgstr "Bruk kategorier for  META nøkkelord:"
+
+#: aioseop_class.php:770
+msgid "Enhanced Ecommerce:"
+msgstr "Forsterke Ehandel:"
+
+#: aioseop_class.php:758
+msgid "Enhanced Link Attribution:"
+msgstr "Forsterke linkegenskaper:"
+
+#: aioseop_class.php:746
+msgid "Track Outbound Links:"
+msgstr "Spor utgående linker:"
+
+#: aioseop_class.php:734
+msgid "Exclude Users From Tracking:"
+msgstr "Ekskluder brukere fra å spore:"
+
+#: aioseop_class.php:722
+msgid "Display Advertiser Tracking:"
+msgstr "Vis reklamesporing:"
+
+#: aioseop_class.php:710
+msgid "Anonymize IP Addresses:"
+msgstr "Anonymiser IPadresser:"
+
+#: aioseop_class.php:697
+msgid "Additional Domains:"
+msgstr "Tilleggsdomener:"
+
+#: aioseop_class.php:685
+msgid "Track Multiple Domains:"
+msgstr "Spor flere domener:"
+
+#: aioseop_class.php:673
+msgid "Tracking Domain:"
+msgstr "Søkedomene:"
+
+#: aioseop_class.php:657
+msgid "Advanced Analytics Options:"
+msgstr "Avanserte analytikerinnstillinger:"
+
+#: aioseop_class.php:651
+msgid "Google Analytics ID:"
+msgstr "Google Analytiker ID:"
+
+#: aioseop_class.php:645
+msgid "Specify Publisher URL:"
+msgstr "Spesifiser publiseringsURL:"
+
+#: aioseop_class.php:635
+msgid "Display Publisher Meta on Front Page:"
+msgstr "Vis publiseringsmeta på Forside:"
+
+#: aioseop_class.php:629
+msgid "Display Google Authorship:"
+msgstr "Vis Google forfatterskap:"
+
+#: aioseop_class.php:619
+msgid "Advanced Authorship Options:"
+msgstr "Avanserte forfatterskapalternativer:"
+
+#: aioseop_class.php:613
+msgid "Specify A Preferred Name:"
+msgstr "Spesifiser et foretrukkent navn:"
+
+#: aioseop_class.php:610
+msgid "Set Preferred Site Name:"
+msgstr "Sett foretrukket sidenavn:"
+
+#: aioseop_class.php:607
+msgid "Display Sitelinks Search Box:"
+msgstr "Vis sidelinksøkeboks:"
+
+#: aioseop_class.php:602
+msgid "Disable Google Plus Profile:"
+msgstr "Deaktiver Google+ profil:"
+
+#: aioseop_class.php:597
+msgid "Google Plus Default Profile:"
+msgstr "Google+ Standardprofil:"
+
+#: aioseop_class.php:592
+msgid "Pinterest Site Verification:"
+msgstr "Pinterest sideverifisering:"
+
+#: aioseop_class.php:587
+msgid "Bing Webmaster Center:"
+msgstr "Bing Webmaster Senter:"
+
+#: aioseop_class.php:582
+msgid "Google Webmaster Tools:"
+msgstr "Google Webmaster Verktøy:"
+
+#: aioseop_class.php:572
+msgid "Custom titles:"
+msgstr "Tilpassede titler:"
+
+#: aioseop_class.php:567
+msgid "Default to NOYDIR:"
+msgstr "Standardser til NOYDIR:"
+
+#: aioseop_class.php:562
+msgid "Default to NOODP:"
+msgstr "Standardiser til NOODP:"
+
+#: aioseop_class.php:557
+msgid "Default to NOFOLLOW:"
+msgstr "Standardiser til NOFOLLOW:"
+
+#: aioseop_class.php:552
+msgid "Default to NOINDEX:"
+msgstr "Standardiser til NOINDEX:"
+
+#: aioseop_class.php:541
+msgid "Enable Advanced Options:"
+msgstr "Tillat Avanserte Alternativer"
+
+#: aioseop_class.php:529
+msgid "SEO on only these post types:"
+msgstr "SEO bare på disse innleggstyper:"
+
+#: aioseop_class.php:520
+msgid "SEO for Custom Post Types:"
+msgstr "SEO for tilpassede innleggstyper"
+
+#: aioseop_class.php:514
+msgid "Paged Format:"
+msgstr "Sideformat:"
+
+#: aioseop_class.php:508
+msgid "404 Title Format:"
+msgstr "404 Tittelformat:"
+
+#: aioseop_class.php:502
+msgid "Description Format"
+msgstr "Beskrivelsesformat:"
+
+#: aioseop_class.php:496
+msgid "Search Title Format:"
+msgstr "Søketittelformat:"
+
+#: aioseop_class.php:490
+msgid "Tag Title Format:"
+msgstr "Merketittelformat:"
+
+#: aioseop_class.php:484
+msgid "Author Archive Title Format:"
+msgstr "Forfatterarkivtittelformat:"
+
+#: aioseop_class.php:478
+msgid "Date Archive Title Format:"
+msgstr "Datoarkivtittelformat:"
+
+#: aioseop_class.php:472
+msgid "Archive Title Format:"
+msgstr "Arkivtittelformat:"
+
+#: aioseop_class.php:466
+msgid "Category Title Format:"
+msgstr "Kategoritittelformat:"
+
+#: aioseop_class.php:460
+msgid "Post Title Format:"
+msgstr "Innleggstittelformat:"
+
+#: aioseop_class.php:454
+msgid "Page Title Format:"
+msgstr "Sidetittelformat:"
+
+#: aioseop_class.php:448
+msgid "Home Page Title Format:"
+msgstr "Hjemmesidetittelformat:"
+
+#: aioseop_class.php:435
+msgid "Use Original Title:"
+msgstr "Bruk Originaltittel:"
+
+#: aioseop_class.php:425 modules/aioseop_performance.php:63
+msgid "Force Rewrites:"
+msgstr "Tving omskriving:"
+
+#: aioseop_class.php:416
+msgid "Rewrite Titles:"
+msgstr "Skriv om titler:"
+
+#: aioseop_class.php:411
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: aioseop_class.php:410
+msgid "HTTP"
+msgstr "HTTP"
+
+#: aioseop_class.php:409
+msgid "Auto"
+msgstr "Auto"
+
+#: aioseop_class.php:405
+msgid "Set Protocol For Canonical URLs:"
+msgstr "Sett protokoll for kannoniske URLs"
+
+#: aioseop_class.php:400
+msgid "Enable Custom Canonical URLs:"
+msgstr "Tillat Kannonisk tilpassede URLs"
+
+#: aioseop_class.php:395
+msgid "No Pagination for Canonical URLs:"
+msgstr "Ingen paginering for kannoniske URLs:"
+
+#: aioseop_class.php:391
+msgid "Canonical URLs:"
+msgstr "Kannoniske URLs"
+
+#: aioseop_class.php:382
+msgid "Use Static Front Page Instead"
+msgstr "Bruk Statisk Forside istedet"
+
+#: aioseop_class.php:375
+msgid "Home Keywords (comma separated):"
+msgstr "Hjemmnøkkeord (skilt ved komma):"
+
+#: aioseop_class.php:371 aioseop_class.php:387 aioseop_class.php:421
+#: aioseop_class.php:431 aioseop_class.php:440 aioseop_class.php:525
+#: aioseop_class.php:546 aioseop_class.php:624 aioseop_class.php:640
+#: aioseop_class.php:662 modules/aioseop_performance.php:68
+msgid "Disabled"
+msgstr "Deaktivert"
+
+#: aioseop_class.php:370 aioseop_class.php:386 aioseop_class.php:420
+#: aioseop_class.php:430 aioseop_class.php:439 aioseop_class.php:524
+#: aioseop_class.php:545 aioseop_class.php:623 aioseop_class.php:639
+#: aioseop_class.php:661 modules/aioseop_performance.php:67
+msgid "Enabled"
+msgstr "Aktivert"
+
+#: aioseop_class.php:366
+msgid "Use Keywords:"
+msgstr "Bruk nøkkelord:"
+
+#: aioseop_class.php:356
+msgid "Home Description:"
+msgstr "Hjemmebeskrivelse"
+
+#: aioseop_class.php:346
+msgid "Home Title:"
+msgstr "Hjemmetittel"
+
+#: aioseop_class.php:343
+msgid "I enjoy this plugin and have made a donation:"
+msgstr "Jeg liker denne pluginnen og har gjort en donasjon:"
+
+#: aioseop_class.php:334
+msgid "Disable Google Analytics on this page."
+msgstr "Deaktiver Google Analytikere på denne siden"
+
+#: aioseop_class.php:333
+msgid "Disable SEO on this page."
+msgstr "Deaktiver SEO på denne siden."
+
+#: aioseop_class.php:332
+msgid "Don't display this page in the sitemap."
+msgstr "Ikke vis denn siden i sidekartet."
+
+#: aioseop_class.php:331
+msgid "Set the label for this page menu item."
+msgstr "Sett merket for dette sidemenymerket."
+
+#: aioseop_class.php:330
+msgid "Set the title attribute for menu links."
+msgstr "Sett tittelattributtet for menylinker."
+
+#: aioseop_class.php:329
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for this page."
+msgstr "Kryss av her for å be Yahoo! om å ikke bruke beskrivelser fra Yahoo! direktivet for denne siden."
+
+#: aioseop_class.php:328
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for this page."
+msgstr "Kryss av denne boksen for å be søkemotorer om å ikke bruke beskrivelser fra Åpen Direktiv Prosjektet for denne siden."
+
+#: aioseop_class.php:327
+msgid "Check this box to ask search engines not to follow links from this page."
+msgstr "Kryss av denne boksen for å be søkemotorer om å ikke følge linker fra denne siden."
+
+#: aioseop_class.php:326
+msgid "Check this box to ask search engines not to index this page."
+msgstr "Kryss av denne boksen for å be søkemotorere om å ikke indekse denne siden."
+
+#: aioseop_class.php:325
+msgid "Override the canonical URLs for this post."
+msgstr "Overstyr de Kannoniske URL for dette innlegget."
+
+#: aioseop_class.php:324
+msgid "A comma separated list of your most important keywords for this page that will be written as META keywords."
+msgstr "En kommaseparert liste over dine viktigste nøkkelord for denne siden som vil bli skrevet som Metanøkkelord"
+
+#: aioseop_class.php:323
+msgid "The META description for this page. This will override any autogenerated descriptions."
+msgstr "Metabeskrivelsen for denne siden. Dette vil overskrive enhver autogenerert beskrivelse."
+
+#: aioseop_class.php:322
+msgid "A custom title that shows up in the title tag for this page."
+msgstr "En tilpasset tittel som vises i tittelmerket for denne siden."
+
+#: aioseop_class.php:321
+msgid "A preview of what this page might look like in search engine results."
+msgstr "En forhåndsvisning av hva denne siden muligens kan se ut som i søkemotorresultater."
+
+#: aioseop_class.php:231
+msgid "What you enter here will be copied verbatim to the header of the home page if you have Front page displays your latest posts selected in Settings, Reading.  It will also be copied verbatim to the header on the Posts page if you have one set in Settings, Reading. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Det du skriver inn her vil bli kopiert ordrett til overskriften overhjemmesiden hvis du har Forsidevisning for dine siste innlegg valgt i Instillinger, Lesing. Det vi også bli kopiert ordrett til overskriften over innleggssiden hvis du har en satt i Innstillinger, Lesing. Du kan skrive inn en hvilken som helst tilleggsoverskrift du ønsker her, selv refferanser til stilark."
+
+#: aioseop_class.php:230
+msgid "What you enter here will be copied verbatim to the header of the front page if you have set a static page in Settings, Reading, Front Page Displays. You can enter whatever additional headers you want here, even references to stylesheets. This will fall back to using Additional Page Headers if you have them set and nothing is entered here."
+msgstr "Det du skriver inn her vil bli kopiert ordrett til overskriften over forsiden hvis du har satt en statisk side i Innstillinger, Lesing, Forsidevisning. Du kan skrive inn en hvilken som helst tillegsoverskrift du ønsker her, selv refferanser til stilark. Dette vil gå tilbake til å bruke Tillegssideoverskrifter hvis du har satt dem, og ingenting er skrevet inn her."
+
+#: aioseop_class.php:229
+msgid "What you enter here will be copied verbatim to the header of all Pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Det du skriver inn her vil bli kopiert ordrett til overskriften over alle sider. Du kan skrive inn en hvilken som helst tilleggsoverskrift du ønsker her, selv refferanser til stilark."
+
+#: aioseop_class.php:228
+msgid "What you enter here will be copied verbatim to the header of all Posts. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Det du skriver inn her vil bli kopiert ordrett til overskriften over alle innlegg. Du kan skrive inn en hvilken som helst tilleggsoverskrift du ønsker her, selv refferanser til stilark."
+
+#: aioseop_class.php:227
+msgid "Enter a comma separated list of pages here to be excluded by All in One SEO Pack.  This is helpful when using plugins which generate their own non-WordPress dynamic pages.  Ex: <em>/forum/, /contact/</em>  For instance, if you want to exclude the virtual pages generated by a forum plugin, all you have to do is add forum or /forum or /forum/ or and any URL with the word \\\"forum\\\" in it, such as http://mysite.com/forum or http://mysite.com/forum/someforumpage here and it will be excluded from All in One SEO Pack."
+msgstr "Legg inn en kommaseparert liste over sider her som skal ekskluderes av alt-i-ett SEO Pack.  Dette er nyttig når du bruker plugins som genererer deres egen ikke-WordPress dynamiske side.  Ex: <em>/forum/, /contact/</em>  For eksempel, hvis du ønsker å ekskludere virtuelle sider generert av en innlegsplugin, alt du trenger å gjøre er å legge til forum eller /forum eller /forum/ og legge til en hvilken somhelst URL med ordet \"forum\" i, som for  eksempel http://mysite.com/forum eller http://mysite.com/forum/someforumpage her og det vil bli ekskludert fra alt-iett SEO Pack."
+
+#: aioseop_class.php:225
+msgid "Check this to unprotect internal postmeta fields for use with XMLRPC. If you don't know what that is, leave it unchecked."
+msgstr "Kryss av her for å ubeskytte intern innleggsmetafelt for å brukes med XMLRPC. Hvis du ikke vet hva dette er, ikke kryss av."
+
+#: aioseop_class.php:224
+msgid "Check this to support Schema.org markup, i.e., itemprop on supported metadata."
+msgstr "Kryss av her for å støtte Schema.org markup, i.e., itemprop på støttet metadata."
+
+#: aioseop_class.php:223
+msgid "Check this to prevent your Description from being truncated regardless of its length."
+msgstr "Kryss av her for å hindre at din beskrivelse blir avkortet uavhengig av dens lengde."
+
+#: aioseop_class.php:222
+msgid "Check this and your Meta Descriptions will be removed from page 2 or later of paginated content."
+msgstr "Kryss av her og dine Metabeskrivelser vil bli fjernet fra side 2 eller senere av paginert innhold."
+
+#: aioseop_class.php:221
+msgid "Check this and shortcodes will get executed for descriptions auto-generated from content."
+msgstr "Krys av her og kortkodene vil bli utført for beskrivelser autogenerert fra innhold."
+
+#: aioseop_class.php:220
+msgid "Check this and your Meta Descriptions will be auto-generated from your excerpt or content."
+msgstr "Kryss av her og dine Metabeskrivelser vil bli autogenerert fra dine utdrag eller innhold."
+
+#: aioseop_class.php:219
+msgid "Check this and your Meta Descriptions won't be generated from the excerpt."
+msgstr "Kryss av her og dine Metabeskrivelser vil ikke bli generert fra utdraget."
+
+#: aioseop_class.php:218
+msgid "Set the default noydir setting for each Post Type."
+msgstr "Sett standard noydir-innstillinger for hver innleggstype"
+
+#: aioseop_class.php:217
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for your entire site."
+msgstr "Kryss av her for å be Yahoo!om å ikke bruke beskrivelser fra Yahoo!-direktivet på din side."
+
+#: aioseop_class.php:216
+msgid "Set the default noodp setting for each Post Type."
+msgstr "Sett standard noodp-instillinger for hver innleggstype."
+
+#: aioseop_class.php:215
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for your entire site."
+msgstr "Kryss av her for å be søkemotorer ikke å bruke beskrivelser fra Åpen Direktiv prosjektet for hele siden din."
+
+#: aioseop_class.php:214
+msgid "Check this to ask search engines not to follow links from paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Kryss av her for å be søkemotorer om å ikke følge linker fra paginerte sider /innlegg. Dette er nyttig for å unngå å kopiere innhold."
+
+#: aioseop_class.php:213
+msgid "Check this to ask search engines not to index paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Kryss av her for å be søkemoorer om ikke å indekse paginerte sider/innlegg. Dette er nyttig for å unngå å kopiere innhold."
+
+#: aioseop_class.php:212
+msgid "Check this to ask search engines not to index custom Taxonomy archive pages. Useful for avoiding duplicate content."
+msgstr "Kryss av her for å be søkemotorer om å ikke indekse tilpassede taksonomi arkivsider. Dette er nyttig for å unngå å kopiere innhold."
+
+#: aioseop_class.php:211
+msgid "Check this to ask search engines not to index the 404 page."
+msgstr "Kryss av her for å besøkemotorer om å ikke indekse 404 sider."
+
+#: aioseop_class.php:210
+msgid "Check this to ask search engines not to index the Search page. Useful for avoiding duplicate content."
+msgstr "Kryss av her for å be søkemotorer om å ikke indekse søkesiden. Dette er nyttig for å unngå å kopiere innhold."
+
+#: aioseop_class.php:209
+msgid "Check this to ask search engines not to index Tag Archives. Useful for avoiding duplicate content."
+msgstr "Kryss av her for å be søkemotorer om ikke å indekse merkearkiver. Dette er nyttig for å unngå å kopiere innhold."
+
+#: aioseop_class.php:208
+msgid "Check this to ask search engines not to index Author Archives. Useful for avoiding duplicate content."
+msgstr "Kryss av her for å be søkemotorere ikke å indekse forfatterarkiver. Dette er nyttig for å unngå å kopiere innhold."
+
+#: aioseop_class.php:207
+msgid "Check this to ask search engines not to index Date Archives. Useful for avoiding duplicate content."
+msgstr "Kryss av her for å be søkemotorer om å ikke indekse dataarkiver. Dette er nyttig for å unngå å kopiere innhold."
+
+#: aioseop_class.php:206
+msgid "Check this to ask search engines not to index Category Archives. Useful for avoiding duplicate content."
+msgstr "Kryss av her for å be søkemotorer om å ikke indekse kategoriarkiver. Dette er nyttig for å unngå å kopiere innhold."
+
+#: aioseop_class.php:204
+msgid "Set the default NOFOLLOW setting for each Post Type."
+msgstr "Sett standard NOFOLLOW-innstilling for hver innleggstype."
+
+#: aioseop_class.php:203
+msgid "Set the default NOINDEX setting for each Post Type."
+msgstr "Sett standard NOINDEX-innstillinger for hver innleggstype."
+
+#: aioseop_class.php:202
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics."
+msgstr "Dette tillater støtte for den forsterkede Ehandelen i Google Analytikere."
+
+#: aioseop_class.php:201
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics."
+msgstr "Dette tillater støtte for den forsterkede linkattributeringen i Google Analytikere."
+
+#: aioseop_class.php:200
+msgid "Check this if you want to track outbound links with Google Analytics."
+msgstr "Kryss av her hvis du øsker å spore utgående linker med Google Analytikere."
+
+#: aioseop_class.php:199
+msgid "Exclude logged-in users from Google Analytics tracking by role."
+msgstr "Ekskluder innloggede brukere fra Google Analytikere sporing ved rolle."
+
+#: aioseop_class.php:198
+msgid "This enables support for the Display Advertiser Features in Google Analytics."
+msgstr "Dette tillater støtte for Vis Reklame Alternativene i Google Analytikere."
+
+#: aioseop_class.php:197
+msgid "This enables support for IP Anonymization in Google Analytics."
+msgstr "Dette tillater støtte for IP anonymisering i Google Analytikere."
+
+#: aioseop_class.php:196
+msgid "Add a list of additional domains to track here.  Enter one domain name per line without the http://."
+msgstr "Legg til en liste av tilleggsdomener å spore her. Skriv inn ett domenenvn per linje uten http://."
+
+#: aioseop_class.php:195
+msgid "Use this option to enable tracking of multiple or additional domains."
+msgstr "Bruk dette alternativet for å tillate sporing av flere eller tilleggsdomener."
+
+#: aioseop_class.php:194
+msgid "Enter your domain name without the http:// to set your cookie domain."
+msgstr "Skriv inn domenenavnet uten http:// for å sette ditt cookiedomene."
+
+#: aioseop_class.php:193
+msgid "Check to use advanced Google Analytics options."
+msgstr "Kryss av her for å bruke Avansert Google Analytiker alternativ."
+
+#: aioseop_class.php:192
+msgid "Enter your Google Analytics ID here to track visitor behavior on your site using Google Analytics."
+msgstr "Skriv inn din Google Analytiker-ID her for å spore besøkeroppførsel på din side med å bruke Google Analytikere:"
+
+#: aioseop_class.php:191
+msgid "Press the connect button to connect with Google Analytics; or if already connected, press the disconnect button to disable and remove any stored analytics credentials."
+msgstr "Trykk på koble til-knappen  for å koble til med Google Analytikere; eller hvis du allerede er tilkoblet, trykk på koble fraknappen for ¨å koble fra og fjerne lagret analytikerlegitimasjon."
+
+#: aioseop_class.php:190
+msgid "Add markup to tell Google the preferred name for your website."
+msgstr "Legg til markering for å fortelle Google om det foretrukne navnet for din nettside."
+
+#: aioseop_class.php:189
+msgid "Add markup to display the Google Sitelinks Search Box next to your search results in Google."
+msgstr "Legg til markering for å vise Google sidelink søkeboksen ved siden av dine søkeresultater i google."
+
+#: aioseop_class.php:188
+msgid "The Google+ profile you enter here will appear on your homepage only as the rel=\\\"publisher\\\" tag. It is recommended that the URL you enter here should be the Google+ profile for your business."
+msgstr "Google+ profilen som du skriver inn her vil vises på din hjemmeside bare som rel=\"publisher\"-merket. Det anbefales at URL som du skriver inn her skal være Google+ profilen for din business."
+
+#: aioseop_class.php:187
+msgid "This option allows you to control whether rel=\\\"publisher\\\" is displayed on the homepage of your site. Google recommends using this if the site is a business website."
+msgstr "Dette alternativet tillater at du kontrollerer hvorvidt rel=\"publisher\" skal vises på hjemmesiden til siden din. Google anbefaler å bruke dette hvis siden er en businessnettside."
+
+#: aioseop_class.php:186
+msgid "This option allows you to control which types of pages you want to display rel=\\\"author\\\" on for Google authorship. The options include the Front Page (the homepage of your site), Posts, Pages, and any Custom Post Types. The Everywhere Else option includes 404, search, categories, tags, custom taxonomies, date archives, author archives and any other page template."
+msgstr "Dette alternativet lar deg kontrollere hvilke type sider du ønsker å vise rel=\"author\" for Google forfatterskap. Alternativet inkluderer forsiden (din sides hjemmeside) innlegg, sider, og andre tilpassede innleggstyper. Andre steder alternativet inkluderer 404, søk, kategorier, merker, tilpasset taksonomi, datoarkiver, forfatterarkiver og andre sidemaler."
+
+#: aioseop_class.php:185
+msgid "Enable this to display advanced options for controlling Google Plus authorship information on your website."
+msgstr "Tillat dette for å vise avanserte instillinger for å kontrollere Google+ forfatterskapsinformasjon på din nettside."
+
+#: aioseop_class.php:184
+msgid "Check this to remove the Google Plus field from the user profile screen."
+msgstr "Kryss av her for å fjerne Google+ feltet frå brukerprofilskjermen."
+
+#: aioseop_class.php:183
+msgid "Enter your Google+ Profile URL here to add the rel=“author” tag to your site for Google authorship. It is recommended that the URL you enter here should be your personal Google+ profile.  Use the Advanced Authorship Options below if you want greater control over the use of authorship."
+msgstr "Skriv inn din Google+ profils URL her for å legge til  rel=“author”-merket til din side for Google forfatterskap. Det anbefales at URLen som du skriver inn her skal være din personlige Google+-profil. Bruk Avansert forfatterskap alternativet under, hvis du ønsker bedre kontroll over bruken av forfatterskap."
+
+#: aioseop_class.php:182
+msgid "Enter your verification code here to verify your site with Pinterest.<br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Skriv inn din verifiseringskode her for å bekrefte din side med Pinterest.<br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Click here for documentation on this setting</a>"
+
+#: aioseop_class.php:181
+msgid "Enter your verification code here to verify your site with Bing Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Skriv inn din verifiseringskode her for å bekrefte din side med Bing Webmaster verktøy.<br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Click here for documentation on this setting</a>"
+
+#: aioseop_class.php:180
+msgid "Enter your verification code here to verify your site with Google Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Skriv inn din verifiseringskode her for å bekrefte din side med Google Webmaster verktøy.<br /><a href='http://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Click here for documentation on this setting</a>"
+
+#: aioseop_class.php:179
+msgid "This allows you to set the title tags for each Custom Post Type."
+msgstr "Dette lar deg sette tittelmerker for hver tilpasset innleggstype."
+
+#: aioseop_class.php:177
+msgid "Use these checkboxes to select which Post Types you want to use All in One SEO Pack with."
+msgstr "Bruk disse sjekkbokser for å velge hvilke innleggstyper du ønsker å bruke alt-i-ett SEO Pack med."
+
+#: aioseop_class.php:176
+msgid "This will show or hide the advanced options for SEO for Custom Post Types."
+msgstr "Dette vil vise eller skjule avanserte alternativer for SEO for tilpassede innleggstyper."
+
+#: aioseop_class.php:175
+msgid "Check this if you want to use All in One SEO Pack with any Custom Post Types on this site."
+msgstr "Kryss av her hvis du ønsker alt-i-ett SEO Pack med en tilpasset innleggstype på denne siden."
+
+#: aioseop_class.php:174
+msgid "%page% - The page number"
+msgstr "%page% - Sidenummer"
+
+#: aioseop_class.php:173 aioseop_class.php:3183 aioseop_class.php:3235
+msgid "The following macros are supported:"
+msgstr "De følgende makroer støttes:"
+
+#: aioseop_class.php:172
+msgid "This string gets appended/prepended to titles of paged index pages (like home or archive pages)."
+msgstr "Denne rekken blir vedlagt/foranstilt titler av indekssider (som hjemme- eller arkivsider)."
+
+#: aioseop_class.php:171
+msgid "%404_title% - Additional 404 title input\""
+msgstr "%404_title% - Tilleggsl 404 tittel innspill\""
+
+#: aioseop_class.php:170
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% - URLveien i leselig form, like \"Url That Does Not Exist\""
+
+#: aioseop_class.php:169
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - Original URLvei, som \"/url-that-does-not-exist/\""
+
+#: aioseop_class.php:166
+msgid "This controls the format of the title tag for the 404 page.<br />The following macros are supported:"
+msgstr "Dette kontrollerer formatet for tittelmerket for 404 siden.<br />De følgende makroer støttes:"
+
+#: aioseop_class.php:165
+msgid "%wp_title% - The original wordpress title, e.g. post_title for posts"
+msgstr "%wp_title% - Originaltittel fra WordPress, e.g. post_title for posts"
+
+#: aioseop_class.php:163
+msgid "%description% - The original description as determined by the plugin, e.g. the excerpt if one is set or an auto-generated one if that option is set"
+msgstr "%description% - Originalbeskrivelsen som bestemmes av plugin e.g. Utdraget hvis et er satt eller en autogenerert hvis det alternativet er satt"
+
+#: aioseop_class.php:160
+msgid "This controls the format of Meta Descriptions.The following macros are supported:"
+msgstr "Dette kontrollerer formatet for Metabeskrivelser. De følgende makroer støttes:"
+
+#: aioseop_class.php:159
+msgid "%search% - What was searched for"
+msgstr "%search% - Hva som ble søkt etter"
+
+#: aioseop_class.php:156
+msgid "This controls the format of the title tag for the Search page.<br />The following macros are supported:"
+msgstr "Dette kontrollerer formatet til tittelmerket for søkesiden.<br />De følgende makroer støttes:"
+
+#: aioseop_class.php:154
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - Merkenavn"
+
+#: aioseop_class.php:151
+msgid "This controls the format of the title tag for Tag Archives.<br />The following macros are supported:"
+msgstr "Dette kontrollerer formatet til tittelmerket for Merkearkiv.<br />De følgende makroer støttes:"
+
+#: aioseop_class.php:149
+msgid "%author% - The original archive title given by wordpress, e.g. \"Steve\" or \"John Smith\""
+msgstr "%author% - Originalarkivtittel gitt av WordPress, e.g. \"Steve\" or \"John Smith\""
+
+#: aioseop_class.php:146
+msgid "This controls the format of the title tag for Author Archives.<br />The following macros are supported:"
+msgstr "Dette kontrollerer formatet til tittelmerket for forfatterarkivet.<br />De følgende makroer støttes:"
+
+#: aioseop_class.php:144
+msgid "%year% - The original archive year given by wordpress, e.g. \"2007\""
+msgstr "%year% - Originalarkivår gitt av Word Press, e.g. \"2007\""
+
+#: aioseop_class.php:143
+msgid "%month% - The original archive month given by wordpress, e.g. \"August\""
+msgstr "%month% - Originalarkivmåneden gitt av WordPress, e.g. \"August\""
+
+#: aioseop_class.php:142
+msgid "%day% - The original archive day given by wordpress, e.g. \"17\""
+msgstr "%day% - Originalarkivdagen gitt av WordPress, e.g. \"17\""
+
+#: aioseop_class.php:141
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - Original arikivtittelen gitt av WordPress, e.g. \"2007\" or \"2007 August\""
+
+#: aioseop_class.php:138
+msgid "This controls the format of the title tag for Date Archives.<br />The following macros are supported:"
+msgstr "Dette kontrollerer formatet for tittelmerker for Datoarkiver.<br /> De følgende makroer støttes:"
+
+#: aioseop_class.php:136
+msgid "%archive_title - The original archive title given by wordpress"
+msgstr "%archive_title - Original arkivtittel gitt av WordPress"
+
+#: aioseop_class.php:133
+msgid "This controls the format of the title tag for Custom Post Archives.<br />The following macros are supported:"
+msgstr "Dette kontrollerer formatet til tittelmerket for tilpassede innleggsarkiver.<br />De følgende makroer støttes:"
+
+#: aioseop_class.php:131
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - Beskrivelse av kategorien"
+
+#: aioseop_class.php:130
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - Kategoriens originaltittel"
+
+#: aioseop_class.php:127
+msgid "This controls the format of the title tag for Category Archives.<br />The following macros are supported:"
+msgstr "Dette kontrollerer formatet for tittelmerket for Kategoriarkiver .<br />De følgende makroer støttes:"
+
+#: aioseop_class.php:125 aioseop_class.php:3197
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_firstname% - Dette innleggets forfatters etternavn (store bokstaver)"
+
+#: aioseop_class.php:124 aioseop_class.php:3196
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - Dette innleggets forfatters fornavn (store bokstaver)"
+
+#: aioseop_class.php:123 aioseop_class.php:3195
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - Dette innleggets forfatters kallenavn"
+
+#: aioseop_class.php:122 aioseop_class.php:3194
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% - Dette innleggets forfatters log inn"
+
+#: aioseop_class.php:121
+msgid "%category% - Alias for %category_title%"
+msgstr "%category% - Alias for %category_title%"
+
+#: aioseop_class.php:120
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - Hovedkategorien til innlegget"
+
+#: aioseop_class.php:119 aioseop_class.php:164
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - Innleggets originaltittel"
+
+#: aioseop_class.php:116
+msgid "This controls the format of the title tag for Posts.<br />The following macros are supported:"
+msgstr "Dette kontrollerer formatet for tittelmerket for innlegg.<br />De følgende makroer støttes:"
+
+#: aioseop_class.php:107
+msgid "This controls the format of the title tag for Pages.<br />The following macros are supported:"
+msgstr "Dette kontrollerer formatet av tittelmerket for sider.<br />De følgende makroer støttes:"
+
+#: aioseop_class.php:105 aioseop_class.php:114
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "Denne sidens forfatters etternavn (i store bokstaver)"
+
+#: aioseop_class.php:104 aioseop_class.php:113
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - Denne sidens forfatters fornavn (i store bokstaver)"
+
+#: aioseop_class.php:103 aioseop_class.php:112
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% - Denne sidens forfatters kallenavn"
+
+#: aioseop_class.php:102 aioseop_class.php:111
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - Denne sidens forfatters login"
+
+#: aioseop_class.php:101 aioseop_class.php:110
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - Originaltittelen til siden"
+
+#: aioseop_class.php:100 aioseop_class.php:109 aioseop_class.php:118
+#: aioseop_class.php:129 aioseop_class.php:135 aioseop_class.php:140
+#: aioseop_class.php:148 aioseop_class.php:153 aioseop_class.php:158
+#: aioseop_class.php:162 aioseop_class.php:168 aioseop_class.php:3185
+#: aioseop_class.php:3237
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - Din bloggbeskrivelse"
+
+#: aioseop_class.php:99 aioseop_class.php:108 aioseop_class.php:117
+#: aioseop_class.php:128 aioseop_class.php:134 aioseop_class.php:139
+#: aioseop_class.php:147 aioseop_class.php:152 aioseop_class.php:157
+#: aioseop_class.php:161 aioseop_class.php:167 aioseop_class.php:3184
+#: aioseop_class.php:3236
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - Din bloggtittel"
+
+#: aioseop_class.php:98
+msgid "This controls the format of the title tag for your Home Page.<br />The following macros are supported:"
+msgstr "Dette kontrollerer formatet til tittelmerket for din hjemmside.<br /> De følgende makroer er støttet:"
+
+#: aioseop_class.php:96
+msgid "Check this and Search Page Titles and Tag Page Titles will have the first letter of each word capitalized."
+msgstr "Kryss av her og søkesidetittelen og merkesidetitlene vil ha den første bokstaven fra hvert ord i store bokstaver."
+
+#: aioseop_class.php:95
+msgid "Note that this is all about the title tag. This is what you see in your browser's window title bar. This is NOT visible on a page, only in the title bar and in the source code. If enabled, all page, post, category, search and archive page titles get rewritten. You can specify the format for most of them. For example: Using the default post title format below, Rewrite Titles will write all post titles as 'Post Title | Blog Name'. If you have manually defined a title using All in One SEO Pack, this will become the title of your post in the format string."
+msgstr "Noter at dette handler om tittelmerket. Dette er hva du ser i din nettsides vindutittellinjen. Dette er IKKE synlig på en side, bare i tittellinjen og i kildekoden. Hvis tillatt, all side, innlegg, kategori, søk og arkivsidetitler blir omskrevet. Du kan spesifisere formatet for de fleste av dem. For eksempel: bruk standard sidetittelformatet under, skriv om titlene kommer til å skkrive alle innleggstitler som 'innleggstittel | bloggnavn' Hvis du har manuet definert en tittel ved å bruke alt-i-ett Seo Pack, blir dette automatisk tittelen på ditt innlegg i formatrekken."
+
+#: aioseop_class.php:94
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "Kryss av her hvis du ønsker at nøkkelordene på din Innleggsside (satt i WordPress under Innstillinger, Lesing, Forsidevisning) og dine arkivsider til å bli dynamisk generert fra nøkkelordene fra innlegget som vises på siden. Hvis ikke krysset av blir nøkkelord satt i endre side skjermen brukt for innleggssiden."
+
+#: aioseop_class.php:93
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Kryss av her hvis du ønsker merker for et gitt innlegg brukes som Meta Nøkkelord for dette innlegget (i tillegg til andre nøkkelord du spesifiserer på Endre Innleggs skjermen)."
+
+#: aioseop_class.php:92
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Kryss av her hvis du ønsker at dine kateorier for et gitt innlegg brukes som Meta Nøkkelord for dette innlegget (i tillegg til andre nøkkelord du spesifiserer på Endre Innleggs skjermen)."
+
+#: aioseop_class.php:91
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "Dette alternativet tillater at du veksler mellom bruk av Meta Nøkkelord gjenom hele siden."
+
+#: aioseop_class.php:90
+msgid "Checking this option uses the title, description, and keywords set on your static Front Page."
+msgstr "Kryss av dette aternativet for å bruke tittelen, beskrivelsen og nkkelordene satt hos din statiske hjemmeside."
+
+#: aioseop_class.php:89
+msgid "Enter a comma separated list of your most important keywords for your site that will be written as Meta Keywords on your homepage. Do not stuff everything in here."
+msgstr "Skriv inn en kommaseparert liste av dine viktigste nøkkelord for din side, som vil skrives som Metanøkkelord for din hjemmeisde. Ikke press alt inn der."
+
+#: aioseop_class.php:88
+msgid "This will be the Meta Description for your homepage. This is independent of any other option. The default is no Meta Description at all if this is not set."
+msgstr "Dette vil være Metabeskrivelsen for din hjemmeside. Dette er uavhengig av andre alternativer. Standarden er ingen Metabeskrivelse, hvis dette ikke er satt."
+
+#: aioseop_class.php:87
+msgid "As the name implies, this will be the Meta Title of your homepage. This is independent of any other option. If not set, the default Site Title (found in WordPress under Settings, General, Site Title) will be used."
+msgstr "Som tittelen antyder, dette vil være Metatittelen til din hjemmeside. Dette er uavhengig av andre alternativer. Hvis ikke bestemt, standard Sidetittelen (funnet i WordPress under innstillinger, generelt, Sidetittel) vil bli brukt. "
+
+#: aioseop_class.php:86
+msgid "Check this and All in One SEO Pack will create a log of important events (all-in-one-seo-pack.log) in its plugin directory which might help debugging. Make sure this directory is writable."
+msgstr "Kryss av denne og All in One SEO Pack lager en logg over viktige hendelser (all-in-one-seo-pack.log) i sin pluginkatalog som kan hjelpe med debugging. Pass på at denne katalogen er skrivbar."
+
+#: aioseop_class.php:85
+msgid "Use wp_title to get the title used by the theme; this is disabled by default. If you use this option, set your title formats appropriately, as your theme might try to do its own title SEO as well."
+msgstr "Bruk wp_title For å få tittelen brukt ved tema; Dette er ikke mulig ved standardinnstillinger. Hvis du bruker dette alternativet, sett tittelformatet fornuftig, fordi temaet dit vil muligens prøve å gjøre sin egen tittel SEO i tillegg."
+
+#: aioseop_class.php:84
+msgid "Set protocol for canonical URLs."
+msgstr "Sett protokoll for Kannoniske URLs"
+
+#: aioseop_class.php:83
+msgid "Checking this option will allow you to customize Canonical URLs for specific posts."
+msgstr "Kryss av dette alternativet for å tillate at du manuelt endrer Kannoniske URLs for spesifike innlegg."
+
+#: aioseop_class.php:82
+msgid "Checking this option will set the Canonical URL for all paginated content to the first page."
+msgstr "Kryss av dette alternativet for å sette Kannonisk URL for alt paginert innhold for den første siden."
+
+#: aioseop_class.php:81
+msgid "This option will automatically generate Canonical URLs for your entire WordPress installation.  This will help to prevent duplicate content penalties by <a href=\\'http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html\\' target=\\'_blank\\'>Google</a>."
+msgstr "Dette alternativet kommer automatisk til å generere Kannoniske URLS for hele din WordPress installasjon. Dette vil hjelpe deg med å hindre kopiert innholdsstraff ved <a href=\\'http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html\\' target=\\'_blank\\'>Google</a>."
+
+#: aioseop_class.php:79
+msgid "All donations support continued development of this free software."
+msgstr "Alle donasjoner støtter videre utvikling av denne gratis softwaren."
+
+#: aioseop_class.php:69 aioseop_class.php:1046
+#: modules/aioseop_opengraph.php:557
+msgid "General Settings"
+msgstr "Generelle innstillinger"
+
+#: aioseop_class.php:68
+msgid "%s Plugin Options"
+msgstr "%s pluginalternativer"
+
+#: modules/aioseop_bad_robots.php:182
+msgid "No rules to update!"
+msgstr "Ingen linjer / regler å oppdatere!"
+
+#: modules/aioseop_bad_robots.php:146 modules/aioseop_bad_robots.php:179
+msgid "Failed to update .htaccess rules!"
+msgstr "Kunne ikke oppdatere .htaccess rules!"
+
+#: modules/aioseop_bad_robots.php:144 modules/aioseop_bad_robots.php:177
+msgid "Updated .htaccess rules."
+msgstr "Oppdatert .htaccess rules."
+
+#: modules/aioseop_bad_robots.php:157
+msgid "Apache module %s is required!"
+msgstr "Apachemodul %s er påkrevd!"
+
+#: modules/aioseop_bad_robots.php:109
+msgid "Blocked bot with IP %s -- matched referer %s found in blocklist."
+msgstr "Blokkert bot med IP %s samsvarte med refferent %s funnet i blokkeringsliste."
+
+#: modules/aioseop_bad_robots.php:103
+msgid "Blocked bot with IP %s -- matched user agent %s found in blocklist."
+msgstr "Blokkert bot med IP %s -- samsvarte med brukeragent %s funnet i blokkeringsliste."
+
+#: modules/aioseop_bad_robots.php:60
+msgid "No requests yet."
+msgstr "Ingen forespørsler enda."
+
+#: modules/aioseop_bad_robots.php:59
+msgid "Log Of Blocked Bots"
+msgstr "Logg over blokkert bots"
+
+#: modules/aioseop_bad_robots.php:48
+msgid "Referer Blocklist"
+msgstr "Refferent Blokkeringslister"
+
+#: modules/aioseop_bad_robots.php:40
+msgid "User Agent Blocklist"
+msgstr "Brukeragent blokkeringslister"
+
+#: modules/aioseop_bad_robots.php:36
+msgid "Track Blocked Bots"
+msgstr "Spor blokkerte bots"
+
+#: modules/aioseop_bad_robots.php:30
+msgid "Shows log of most recent requests from blocked bots. Note: this will not track any bots that were already blocked at the web server / .htaccess level."
+msgstr "Viser logg over nylige forespørsler fra blokkerte bots. NB: dette sporer ikke bots som allerede var blokkert hos webserveren/ .htaccess level."
+
+#: modules/aioseop_bad_robots.php:29
+msgid "This is the list of disallowed referers used for blocking bad bots."
+msgstr "Dette er listen over ikke tillatte refferenter som brukes for å blokkere dårliger bots."
+
+#: modules/aioseop_bad_robots.php:28
+msgid "This is the list of disallowed user agents used for blocking bad bots."
+msgstr "Dette er listen over ikke tillatte brukeragenter som brukes for å blokkere dårliger bots."
+
+#: modules/aioseop_bad_robots.php:27
+msgid "Check this to edit the list of disallowed user agents for blocking bad bots."
+msgstr "Sjekk dette for å endre listen av utillatte brukeragenter for å blokkere dårlige bots."
+
+#: modules/aioseop_bad_robots.php:26
+msgid "Block bad robots via Apache .htaccess rules. Warning: this will change your web server configuration, make sure you are able to edit this file manually as well."
+msgstr "Blokker dårlige roboter via Apache .htaccess regler. Advarsel: dette vil endre din webservers konfigurasjon, pass på at du kan endre denne filen manuelt i tillegg."
+
+#: modules/aioseop_bad_robots.php:25
+msgid "Log and show recent requests from blocked bots."
+msgstr "logg og vis nye forespørsler fra blokkerte bots"
+
+#: modules/aioseop_bad_robots.php:23
+msgid "Block requests from user agents that are known to misbehave with 503."
+msgstr "Blokker forespørsler fra brukeragenter som er kjent for å oppføre seg dårlig med 503"
+
+#: modules/aioseop_bad_robots.php:17 modules/aioseop_feature_manager.php:49
+msgid "Bad Bot Blocker"
+msgstr "Dårlig bot blokker"

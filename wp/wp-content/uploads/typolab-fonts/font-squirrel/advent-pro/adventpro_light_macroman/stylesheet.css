@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'advent_prolight';
+    src: url('adventpro-light-webfont.eot');
+    src: url('adventpro-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('adventpro-light-webfont.woff2') format('woff2'),
+         url('adventpro-light-webfont.woff') format('woff'),
+         url('adventpro-light-webfont.ttf') format('truetype'),
+         url('adventpro-light-webfont.svg#advent_prolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

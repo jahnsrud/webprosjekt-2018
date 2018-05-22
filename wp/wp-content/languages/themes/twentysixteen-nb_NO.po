@@ -1,0 +1,330 @@
+# Translation of Themes - Twenty Sixteen in Norwegian (Bokmål)
+# This file is distributed under the same license as the Themes - Twenty Sixteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-15 13:54:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Themes - Twenty Sixteen\n"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Sixteen"
+msgstr "Twenty Sixteen"
+
+#. Description of the plugin/theme
+msgid "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere."
+msgstr "Twenty Sixteen er en moderne utgave av en evig populær WordPress layout — det horisontale toppbanneret med en valgfri høyre sidekolonne som fungerer perfekt for blogger og nettsteder. Det har vakre standard fargevalg med valg for egendefinerte farger, et harmonisk og fleksibelt rammeverk med mobil-først tilnærming, og er upåklagelig finpusset til minste detalj. Twenty Sixteen lar din WordPress se vakker ut over alt."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:194 template-parts/content.php:29
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Fortsett å lese<span class=\"screen-reader-text\"> «%s»</span>"
+
+#. translators: %s: Name of current post
+#: image.php:88 template-parts/content-page.php:39
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:47 template-parts/content.php:53
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Rediger<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: inc/customizer.php:324
+msgid "Red"
+msgstr "Rød"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "En kommentar til &laquo;%s&raquo;"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Søk"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Søk &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Søk etter:"
+
+#: footer.php:30
+msgid "Footer Social Links Menu"
+msgstr "Sosiale medier-meny i bunntekst"
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr "Hovedmeny i bunntekst"
+
+#: functions.php:167
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Widgeter som legges til her vises i din sidekolonne."
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Fremhevet"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det ser ikke ut til at vi kan finne det du leter etter. Kanskje et søk kan hjelpe."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men det var ikke noe som passet til ditt søk. Vennligst prøv igjen med andre søkeord."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Begynn her</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Intet funnet"
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "Vis alle innlegg av %s"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "Forfatter:"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Forrige innlegg:"
+
+#: single.php:41
+msgid "Previous"
+msgstr "Tidligere"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Neste innlegg:"
+
+#: single.php:38
+msgid "Next"
+msgstr "Neste"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: inc/template-tags.php:112
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Stikkord"
+
+#: inc/template-tags.php:103
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategorier"
+
+#: inc/template-tags.php:99 inc/template-tags.php:108
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:83
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publisert"
+
+#: inc/template-tags.php:40
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:52
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Legg igjen en kommentar<span class=\"screen-reader-text\"> til %s</span>"
+
+#: inc/template-tags.php:26
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Forfatter"
+
+#: inc/customizer.php:334
+msgid "Yellow"
+msgstr "Gul"
+
+#: inc/customizer.php:314
+msgid "Gray"
+msgstr "Grå"
+
+#: inc/customizer.php:304
+msgid "Dark"
+msgstr "Mørk"
+
+#: inc/customizer.php:204
+msgid "Main Text Color"
+msgstr "Primær tekstfarge"
+
+#: inc/customizer.php:294
+msgid "Default"
+msgstr "Standard"
+
+#: inc/customizer.php:222
+msgid "Secondary Text Color"
+msgstr "Sekundær tekstfarge"
+
+#: inc/customizer.php:186
+msgid "Link Color"
+msgstr "Lenkefarge"
+
+#: inc/customizer.php:165
+msgid "Page Background Color"
+msgstr "Bakgrunnsfarge for side"
+
+#: image.php:107 single.php:31
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Hører til</span><span class=\"post-title\">%title</span>"
+
+#: inc/back-compat.php:41 inc/back-compat.php:54 inc/back-compat.php:70
+msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Sixteen krever minimum WordPress versjon 4.4. Du bruker versjon %s. Vennligst oppgrader og forsøk igjen."
+
+#: inc/customizer.php:145
+msgid "Base Color Scheme"
+msgstr "Grunnpalett"
+
+#: image.php:77
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Full størrelse"
+
+#: image.php:58 template-parts/content-page.php:24
+#: template-parts/content-single.php:26 template-parts/content.php:36
+msgid "Pages:"
+msgstr "Sider:"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Neste bilde"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Forrige bilde"
+
+#: header.php:49
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#: functions.php:301
+msgid "expand child menu"
+msgstr "Utvid undermeny"
+
+#: functions.php:302
+msgid "collapse child menu"
+msgstr "Slå sammen undermeny"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:227
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:177
+msgid "Content Bottom 1"
+msgstr "Under innhold 1"
+
+#: functions.php:179 functions.php:191
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "Vises under innholdet til innlegg og sider."
+
+#: functions.php:189
+msgid "Content Bottom 2"
+msgstr "Under innhold 2"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:217
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:222
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:165
+msgid "Sidebar"
+msgstr "Sidekolonnen"
+
+#: functions.php:92 header.php:66
+msgid "Social Links Menu"
+msgstr "Sosiale medier-meny"
+
+#: functions.php:91 header.php:53
+msgid "Primary Menu"
+msgstr "Hovedmeny"
+
+#: footer.php:61
+msgid "Proudly powered by %s"
+msgstr "Drevet av %s"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Det er stengt for kommentarer."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s kommentar til &laquo;%2$s&raquo;"
+msgstr[1] "%1$s kommentarer til &laquo;%2$s&raquo;"
+
+#: archive.php:53 image.php:62 index.php:50 search.php:41
+#: template-parts/content-page.php:28 template-parts/content-single.php:30
+#: template-parts/content.php:40
+msgid "Page"
+msgstr "Side"
+
+#: archive.php:52 index.php:49 search.php:40
+msgid "Next page"
+msgstr "Neste side"
+
+#: archive.php:51 index.php:48 search.php:39
+msgid "Previous page"
+msgstr "Forrige side"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det ser ikke ut til at noe ble funnet på denne adressen. Kanskje du kan prøve et søk?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Denne siden ble ikke funnet"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentysixteen/"
+msgstr "https://wordpress.org/themes/twentysixteen/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "WordPress-gjengen"
+
+#. #-#-#-#-#  twentysixteen.pot (Twenty Sixteen 1.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:60
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
