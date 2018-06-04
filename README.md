@@ -1,5 +1,5 @@
 # kristiania.guide
-Webprosjekt ved Westerdals/Høyskolen Kristiania
+En guide for studenter ved Høyskolen Kristiania/Westerdals.
 
 ### Oppgave
 
@@ -14,3 +14,5 @@ Webprosjekt ved Westerdals/Høyskolen Kristiania
 
 ### Løsning
 http://kristiania.guide
+
+Også tilgjengelig på http://tek.westerdals.no/~gulson17/kristiania-guide/
